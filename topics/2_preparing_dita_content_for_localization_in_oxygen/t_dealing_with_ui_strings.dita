@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="t_working_with_conrefs">
-    <title>Working with conrefs</title>
-    <shortdesc></shortdesc>
+<task id="t_dealing_with_ui_strings">
+    <title>Dealing with UI strings</title>
+    <shortdesc/>
     <taskbody>
         <context>
-            <p></p>
+            <p/>
         </context>
     </taskbody>
 </task>
