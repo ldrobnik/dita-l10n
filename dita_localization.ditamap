@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How to prepare DITA content for localization</title>
+    <topicmeta>
+        <author>Łukasz Drobnik</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>Łukasz Drobnik</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-04-21"/>
+        </critdates>
+    </topicmeta>
+    <topicref
+        href="topics/1_writing_with_localization_in_mind/c_writing_with_localization_in_mind.dita">
+        <topicref href="topics/1_writing_with_localization_in_mind/c_translation_friendly_text.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_documentation_formats.dita"/>
+        <topicref
+            href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_text.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_ui_strings.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
+    </topicref>
+    <topicref
+        href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_content_for_localization_in_oxygen.dita">
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_working_with_conrefs.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_working_with_keywords.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_working_with_conditions.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_using_the_sort_as_element.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_using_the_index_sort_as_element.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_handling_images.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_dealing_with_ui_strings.dita"
+        />
+    </topicref>
+    <topicref
+        href="topics/3_working_with_dita_files_in_memoq/c_working_with_dita_files_in_memoq.dita">
+        <topicref
+            href="topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"/>
+        <topicref
+            href="topics/3_working_with_dita_files_in_memoq/t_importing_terms_into_a_term_base.dita"/>
+        <topicref href="topics/3_working_with_dita_files_in_memoq/t_working_with_views.dita"/>
+    </topicref>
+</map>
