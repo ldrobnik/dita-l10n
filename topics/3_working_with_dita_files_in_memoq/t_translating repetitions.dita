@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="t_dealing_with_ui_strings">
-    <title>Dealing with UI strings</title>
+<task id="t_working_with_views">
+    <title>Translating repetitions</title>
     <shortdesc/>
     <taskbody>
         <context>

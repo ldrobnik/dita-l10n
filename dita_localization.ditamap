@@ -13,42 +13,35 @@
         </critdates>
     </topicmeta>
     <topicref
-        href="topics/1_writing_with_localization_in_mind/c_writing_with_localization_in_mind.dita">
+        href="topics/1_writing_with_localization_in_mind/c__writing_dita_with_localization_in_mind.dita">
         <topicref href="topics/1_writing_with_localization_in_mind/c_translation_friendly_text.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_documentation_formats.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_text.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_conditional_text.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_ui_strings.dita"/>
         <topicref
             href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_text.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_ui_strings.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
     </topicref>
     <topicref
-        href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_content_for_localization_in_oxygen.dita">
+        href="topics/2_preparing_dita_content_for_localization_in_oxygen/c__preparing_dita_content_for_localization_in_oxygen.dita">
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_working_with_conrefs.dita"/>
-        <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_working_with_keywords.dita"/>
-        <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_working_with_conditions.dita"/>
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"/>
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_using_the_sort_as_element.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_using_the_index_sort_as_element.dita"/>
-        <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_handling_images.dita"/>
-        <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_dealing_with_ui_strings.dita"
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_using_the_index_sort_as_element.dita"
         />
     </topicref>
     <topicref
-        href="topics/3_working_with_dita_files_in_memoq/c_working_with_dita_files_in_memoq.dita">
+        href="topics/3_working_with_dita_files_in_memoq/c__working_with_dita_files_in_memoq.dita">
         <topicref
             href="topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"/>
         <topicref
             href="topics/3_working_with_dita_files_in_memoq/t_importing_terms_into_a_term_base.dita"/>
-        <topicref href="topics/3_working_with_dita_files_in_memoq/t_working_with_views.dita"/>
+        <topicref href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
+        />
     </topicref>
 </map>

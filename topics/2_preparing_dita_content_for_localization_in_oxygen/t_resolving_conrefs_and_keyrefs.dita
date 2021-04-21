@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="t_handling_images">
-    <title>Handling images</title>
-    <shortdesc/>
+<task id="t_resolving_conrefs_and_keyrefs">
+    <title>Resolving conrefs and keyrefs</title>
+    <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p/>
+            <p></p>
         </context>
     </taskbody>
 </task>
