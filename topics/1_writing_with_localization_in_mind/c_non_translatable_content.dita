@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_non_translatable_text">
-    <title>Non-translatable text</title>
+    <title>Non-translatable content</title>
     <shortdesc/>
     <conbody>
         <p/>
+        <section id="section_w3j_3kk_jpb">
+            <title>UI strings</title>
+            <p/>
+        </section>
     </conbody>
 </concept>
