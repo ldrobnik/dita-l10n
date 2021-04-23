@@ -20,7 +20,7 @@
                 <info>
                     <fig id="fig_q5n_zyr_jpb">
                         <image href="../../images/memoq-create-view.png" id="image_ivs_jhs_jpb"
-                            width="550">
+                            width="800">
                             <alt>The 'Create View' option in memoQ 'Translations' screen</alt>
                         </image>
                     </fig>
@@ -42,7 +42,7 @@
         </steps>
         <result id="result_uny_kzr_jpb">You can work on a view containing all repeated segments in
             your project.<fig id="fig_jfc_b3s_jpb">
-                <image href="../../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="550">
+                <image href="../../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="800">
                     <alt>An example memoQ view containing repetitions</alt>
                 </image>
             </fig></result>
