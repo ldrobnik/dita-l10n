@@ -6,9 +6,9 @@
         folder structure.</shortdesc>
     <taskbody>
         <context>
-            <p>When translating a DITA project, it is important to retain its folder structure. To
-                import your project without losing information about its folder strucure, follow
-                these steps:</p>
+            <p>When translating a DITA project, it is important the relationships between its files.
+                To import your project into memoQ without losing folder strucure, follow these
+                steps:</p>
         </context>
         <steps id="steps_tqk_mnr_jpb">
             <step>
