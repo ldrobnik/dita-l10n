@@ -8,7 +8,7 @@
         <section id="section_efs_sfp_jpb">
             <title>Clarity</title>
             <p>A text that is easy to understand is usually also easier to translate. To make your
-                writing easier to understand, use these tips:</p>
+                writing clearer, use these tips:</p>
             <ul id="ul_b5f_3gp_jpb">
                 <li>Avoid overly long sentences and paragraphs.</li>
                 <li>Repeat important words to avoid misunderstanding.<fig id="fig_ing_myp_jpb">
@@ -41,8 +41,8 @@
         </section>
         <section id="section_lnc_1kp_jpb">
             <title>Formating</title>
-            <p>Search your text for unintended linebreaks and punctuation marks (such as commas
-                replaced with periods). Translation tools may misinterpret such characters and split
+            <p>Search your text for unintended linebreaks and punctuation marks (such as periods in
+                place of commas). Translation tools may misinterpret such characters and split
                 sentences into artificial units. This can lead to translation errors and
                 inconsistencies.</p>
             <note id="note_kv1_gbq_jpb" type="important">When localizing a DITA project, always send
