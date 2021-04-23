@@ -35,8 +35,6 @@
     <topichead navtitle="Translating content in memoQ">
         <topicref
             href="topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"/>
-        <topicref
-            href="topics/3_working_with_dita_files_in_memoq/t_importing_terms_into_a_term_base.dita"/>
         <topicref href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
         />
     </topichead>
@@ -99,7 +97,7 @@
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/3_working_with_dita_files_in_memoq/t_importing_terms_into_a_term_base.dita"
+                    href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"
                 />
             </relcell>
         </relrow>
@@ -159,16 +157,6 @@
                 <topicref
                     href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
                 />
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref
-                    href="topics/3_working_with_dita_files_in_memoq/t_importing_terms_into_a_term_base.dita"
-                />
-            </relcell>
-            <relcell>
-                <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
             </relcell>
         </relrow>
         <relrow>
