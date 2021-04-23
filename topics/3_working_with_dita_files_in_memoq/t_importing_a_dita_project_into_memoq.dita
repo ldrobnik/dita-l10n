@@ -6,9 +6,9 @@
         folder structure.</shortdesc>
     <taskbody>
         <context>
-            <p>When translating a DITA project, it is important the relationships between its files.
-                To import your project into memoQ without losing folder strucure, follow these
-                steps:</p>
+            <p>When translating a DITA project, it is important to preserve the relationships
+                between files. To import your project into memoQ without losing the project's folder
+                strucure, follow these steps:</p>
         </context>
         <steps id="steps_tqk_mnr_jpb">
             <step>
@@ -76,7 +76,7 @@
             </step>
             <step>
                 <cmd>Click <uicontrol>…</uicontrol> next to the <uicontrol>Base path</uicontrol>
-                    field and choose the folder of your project.</cmd>
+                    field and choose the folder where your project is located.</cmd>
                 <info>
                     <fig id="fig_hjq_1sr_jpb">
                         <image href="../../images/memoq-base-path.png" id="image_b54_p3s_jpb"
