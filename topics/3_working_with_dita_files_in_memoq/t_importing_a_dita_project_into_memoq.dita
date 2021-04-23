@@ -18,17 +18,25 @@
                         <uicontrol>New Project</uicontrol>
                     </menucascade>.</cmd>
                 <info>
-                    <fig id="fig_hh1_zrr_jpb"/>
+                    <fig id="fig_hh1_zrr_jpb">
+                        <image href="../../images/memoq-new-project.png" id="image_b1y_g3s_jpb">
+                            <alt>The 'New Project' menu in memoQ</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
-                <cmd>In the <uicontrol>Project information</uicontrol> step of the wizard that
-                    appears, enter the <uicontrol>Name</uicontrol> of the project.</cmd>
+                <cmd>In the <uicontrol>New memoQ project</uicontrol> dialog, enter the
+                        <uicontrol>Name</uicontrol> of the project.</cmd>
             </step>
             <step>
                 <cmd>Choose a <uicontrol>Language pair</uicontrol>.</cmd>
                 <info>
-                    <fig id="fig_kp4_zrr_jpb"/>
+                    <fig id="fig_kp4_zrr_jpb">
+                        <image href="../../images/memoq-language-pair.png" id="image_eqb_k3s_jpb">
+                            <alt>Choosing a language pair in 'New memoQ project' dialog</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
@@ -56,14 +64,23 @@
                         <uicontrol>Import Folder Structure</uicontrol>
                     </menucascade>.</cmd>
                 <info>
-                    <fig id="fig_zjf_1sr_jpb"/>
+                    <fig id="fig_zjf_1sr_jpb">
+                        <image href="../../images/memoq-import.png" id="image_jly_n3s_jpb">
+                            <alt>The 'Import' menu in memoQ</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
                 <cmd>Click <uicontrol>…</uicontrol> next to the <uicontrol>Base path</uicontrol>
                     field and choose the folder of your project.</cmd>
                 <info>
-                    <fig id="fig_hjq_1sr_jpb"/>
+                    <fig id="fig_hjq_1sr_jpb">
+                        <image href="../../images/memoq-base-path.png" id="image_b54_p3s_jpb"
+                            width="550">
+                            <alt>The 'Add folder structure' dialog in memoQ</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
@@ -73,13 +90,23 @@
                 <cmd>In the <uicontrol>Document import options</uicontrol> dialog, remove any files
                     you don't want to translate.</cmd>
                 <info>
-                    <fig id="fig_wzg_csr_jpb"/>
+                    <fig id="fig_wzg_csr_jpb">
+                        <image href="../../images/memoq-import-options.png" id="image_bsc_s3s_jpb"
+                            width="550">
+                            <alt>The 'Document import options' dialog in memoQ</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
         </steps>
         <result id="result_ytl_vrr_jpb">Project files are ready for translation.<fig
-                id="fig_vyz_wsr_jpb"/><note id="note_xcv_3sr_jpb">To export a translated project,
-                right-click the root folder and choose <menucascade>
+                id="fig_vyz_wsr_jpb">
+                <image href="../../images/memoq-import-result.png" id="image_q25_v3s_jpb"
+                    width="550">
+                    <alt>DITA project imported into memoQ</alt>
+                </image>
+            </fig><note id="note_xcv_3sr_jpb">To export a translated project, right-click the root
+                folder and choose <menucascade>
                     <uicontrol>Export</uicontrol>
                     <uicontrol>Export (Stored Path)</uicontrol>
                 </menucascade>.</note></result>
