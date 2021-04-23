@@ -13,7 +13,9 @@
                 <li>Avoid overly long sentences and paragraphs.</li>
                 <li>Repeat important words to avoid misunderstanding.<fig id="fig_ing_myp_jpb">
                         <image href="../../images/writing-repeating-words.svg"
-                            id="image_er4_myp_jpb" width="480"/>
+                            id="image_er4_myp_jpb" width="480"
+                            alt="For example, instead of writing 'If the shaft of your wand breaks, you can get a new one online,' write 'If the shaft of your wand breaks, you can get a new wand online.'"
+                        />
                     </fig></li>
                 <li>As a rule, don't describe more than one action in a sentence unless writing
                     about strictly related actions.</li>
@@ -35,7 +37,9 @@
                 <li>Use active voice.</li>
                 <li>Split clusters of nouns into smaller logical units.<fig id="fig_gdn_zjp_jpb">
                         <image href="../../images/writing-noun-clusters.svg" id="image_xfz_4yp_jpb"
-                            width="480"/>
+                            width="480"
+                            alt="For example, instead of writing 'magic wand cleaning center,' write 'center for cleaning magic wands.'"
+                        />
                     </fig></li>
             </ul>
         </section>
