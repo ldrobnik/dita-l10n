@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_translation_friendly_text">
+    <title>Writing translation-friendly text</title>
+    <shortdesc>Learn a few tips to make your text easier to translate and less likely to cause
+        translation errors.</shortdesc>
+    <conbody>
+        <section id="section_efs_sfp_jpb">
+            <title>Clarity</title>
+            <p>A text that is easy to understand is often also easier to translate. To make your
+                writing easier to understand by the reader, use these tips:</p>
+            <ul id="ul_b5f_3gp_jpb">
+                <li>Avoid overly long sentences and paragraphs.</li>
+                <li>Repeat important words in nearby sentences to avoid misunderstanding.<fig
+                        id="fig_ncp_wjp_jpb"/></li>
+                <li>As a rule, don't describe more than one action in a sentence unless the actions
+                    are strictly related.</li>
+                <li>Use words such as "and," "then," "but," "a," "the," "this," and "that" to make
+                    your message clear.</li>
+            </ul>
+        </section>
+        <section id="section_xv1_p3p_jpb">
+            <title>Grammar</title>
+            <p>You can make your text easier to understand by using certain grammatical forms. To
+                make your writing clearer, follow these rules:</p>
+            <ul id="ul_ax4_kjp_jpb">
+                <li>Express actions with verbs rather than nouns.<fig id="fig_oqc_zjp_jpb"/></li>
+                <li>Use active voice.</li>
+                <li>Avoid clusters of nouns.<fig id="fig_gdn_zjp_jpb"/></li>
+            </ul>
+        </section>
+        <section id="section_lnc_1kp_jpb">
+            <title>Formating</title>
+            <p/>
+        </section>
+    </conbody>
+</concept>
