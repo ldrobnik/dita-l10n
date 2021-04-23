@@ -2,10 +2,86 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="t_importing_a_dita_project_into_memoq">
     <title>Importing a DITA project into memoQ</title>
-    <shortdesc/>
+    <shortdesc>Learn how to import your DITA project into memoQ while preserving the project's
+        folder structure.</shortdesc>
     <taskbody>
         <context>
-            <p/>
+            <p>When translating a DITA project, it is important to retain its folder structure. To
+                import your project without losing information about its folder strucure, follow
+                these steps:</p>
         </context>
+        <steps id="steps_tqk_mnr_jpb">
+            <step>
+                <cmd>Go to <menucascade>
+                        <uicontrol>Project</uicontrol>
+                        <uicontrol>New Project</uicontrol>
+                        <uicontrol>New Project</uicontrol>
+                    </menucascade>.</cmd>
+                <info>
+                    <fig id="fig_hh1_zrr_jpb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Project information</uicontrol> step of the wizard that
+                    appears, enter the <uicontrol>Name</uicontrol> of the project.</cmd>
+            </step>
+            <step>
+                <cmd>Choose a <uicontrol>Language pair</uicontrol>.</cmd>
+                <info>
+                    <fig id="fig_kp4_zrr_jpb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter the <uicontrol>Client</uicontrol> and any optional details, then click
+                        <uicontrol>Next</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Skip the <uicontrol>Translation documents</uicontrol> step.</cmd>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Translation memories</uicontrol> step, choose or create a
+                    translation memory.</cmd>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Term bases</uicontrol> step, choose or create a term
+                    base.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Finish</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Go to <menucascade>
+                        <uicontrol>Documents</uicontrol>
+                        <uicontrol>Import</uicontrol>
+                        <uicontrol>Import Folder Structure</uicontrol>
+                    </menucascade>.</cmd>
+                <info>
+                    <fig id="fig_zjf_1sr_jpb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>…</uicontrol> next to the <uicontrol>Base path</uicontrol>
+                    field and choose the folder of your project.</cmd>
+                <info>
+                    <fig id="fig_hjq_1sr_jpb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Document import options</uicontrol> dialog, remove any files
+                    you don't want to translate.</cmd>
+                <info>
+                    <fig id="fig_wzg_csr_jpb"/>
+                </info>
+            </step>
+        </steps>
+        <result id="result_ytl_vrr_jpb">Project files are ready for translation.<fig
+                id="fig_vyz_wsr_jpb"/><note id="note_xcv_3sr_jpb">To export a translated project,
+                right-click the root folder and choose <menucascade>
+                    <uicontrol>Export</uicontrol>
+                    <uicontrol>Export (Stored path)</uicontrol>
+                </menucascade>.</note></result>
     </taskbody>
 </task>
