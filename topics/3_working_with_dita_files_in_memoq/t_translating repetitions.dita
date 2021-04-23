@@ -14,23 +14,37 @@
                         <uicontrol>Project home</uicontrol>
                         <uicontrol>Translations</uicontrol>
                     </menucascade> and select all files.</cmd>
-                <info>
-                    <fig id="fig_q5n_zyr_jpb"/>
-                </info>
             </step>
             <step>
                 <cmd>Right-click the files and select <uicontrol>Create View</uicontrol>.</cmd>
+                <info>
+                    <fig id="fig_q5n_zyr_jpb">
+                        <image href="../../images/memoq-create-view.png" id="image_ivs_jhs_jpb"
+                            width="550">
+                            <alt>The 'Create View' option in memoQ 'Translations' screen</alt>
+                        </image>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>In the <uicontrol>Create view</uicontrol> dialog, enter the <uicontrol>Name of
                         the view</uicontrol>, select <uicontrol>Extract repetitions</uicontrol>, and
                     click <uicontrol>OK</uicontrol>.</cmd>
                 <info>
-                    <fig id="fig_exj_jzr_jpb"/>
+                    <fig id="fig_exj_jzr_jpb">
+                        <image href="../../images/memoq-create-view-dialog.png"
+                            id="image_its_zhs_jpb">
+                            <alt>The 'Create view' dialog in memoQ</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
         </steps>
         <result id="result_uny_kzr_jpb">You can work on a view containing all repeated segments in
-            your project.</result>
+            your project.<fig id="fig_jfc_b3s_jpb">
+                <image href="../../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="550">
+                    <alt>An example memoQ view containing repetitions</alt>
+                </image>
+            </fig></result>
     </taskbody>
 </task>
