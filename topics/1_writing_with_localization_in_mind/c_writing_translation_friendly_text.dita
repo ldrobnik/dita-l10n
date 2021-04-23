@@ -26,9 +26,11 @@
             <p>You can make your text easier to understand by using certain grammatical forms. To
                 make your writing clearer, follow these rules:</p>
             <ul id="ul_ax4_kjp_jpb">
-                <li>Express actions with verbs rather than nouns.<fig id="fig_oqc_zjp_jpb">
+                <li>Express actions with verbs, not nouns.<fig id="fig_oqc_zjp_jpb">
                         <image href="../../images/writing-actions.svg" id="image_jpp_4yp_jpb"
-                            width="480"/>
+                            width="480"
+                            alt="For example, instead of writing 'Applying excessive force can lead to rupture of your wand,' write 'If you apply excessive force, your wand can break.'"
+                        />
                     </fig></li>
                 <li>Use active voice.</li>
                 <li>Split clusters of nouns into smaller logical units.<fig id="fig_gdn_zjp_jpb">
@@ -40,7 +42,12 @@
         <section id="section_lnc_1kp_jpb">
             <title>Formating</title>
             <p>Search your text for unintended linebreaks and punctuation marks (such as commas
-                replaced with periods). Translation tools </p>
+                replaced with periods). Translation tools may misinterpret such characters and split
+                sentences into artificial units. This can lead to translation errors and
+                inconsistencies.</p>
+            <note id="note_kv1_gbq_jpb" type="important">When localizing a DITA project, always send
+                the translators your source files rather than the output, for instance PDF or HTML
+                files.</note>
         </section>
     </conbody>
 </concept>
