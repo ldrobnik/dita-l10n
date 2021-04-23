@@ -17,9 +17,9 @@
             href="topics/1_writing_with_localization_in_mind/c_writing_translation_friendly_text.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
         <topicref
             href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
     </topichead>
     <topichead navtitle="Preparing content in oXygen">
         <topicref
