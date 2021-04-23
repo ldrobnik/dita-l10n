@@ -2,10 +2,35 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="t_working_with_views">
     <title>Translating repetitions</title>
-    <shortdesc/>
+    <shortdesc>Learn how to simplify your translation process in memoQ by creating a view containing
+        only repetitions.</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context>If your DITA project contains a lot of repeated content, it may be useful to
+            include all repetitions in one view. In order to create a view containing all
+            repetitions, follow these steps:</context>
+        <steps id="steps_tvl_tyr_jpb">
+            <step>
+                <cmd>Go to <menucascade>
+                        <uicontrol>Project home</uicontrol>
+                        <uicontrol>Translations</uicontrol>
+                    </menucascade> and select all files.</cmd>
+                <info>
+                    <fig id="fig_q5n_zyr_jpb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Right-click the files and select <uicontrol>Create View</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Create view</uicontrol> dialog, enter the <uicontrol>Name of
+                        the view</uicontrol>, select <uicontrol>Extract repetitions</uicontrol>, and
+                    click <uicontrol>OK</uicontrol>.</cmd>
+                <info>
+                    <fig id="fig_exj_jzr_jpb"/>
+                </info>
+            </step>
+        </steps>
+        <result id="result_uny_kzr_jpb">You can work on a view containing all repeated segments in
+            your project.</result>
     </taskbody>
 </task>
