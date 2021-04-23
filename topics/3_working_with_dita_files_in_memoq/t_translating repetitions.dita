@@ -5,7 +5,7 @@
     <shortdesc>Learn how to simplify your translation process in memoQ by creating a view containing
         only repetitions.</shortdesc>
     <taskbody>
-        <context>If your DITA project contains a lot of repeated content, it may be useful to
+        <context>If your DITA project contains a lot of repetitive content, it may be useful to
             include all repetitions in one view. In order to create a view containing all
             repetitions, follow these steps:</context>
         <steps id="steps_tvl_tyr_jpb">
@@ -16,7 +16,7 @@
                     </menucascade> and select all files.</cmd>
             </step>
             <step>
-                <cmd>Right-click the files and select <uicontrol>Create View</uicontrol>.</cmd>
+                <cmd>Right-click the files and choose <uicontrol>Create View</uicontrol>.</cmd>
                 <info>
                     <fig id="fig_q5n_zyr_jpb">
                         <image href="../../images/memoq-create-view.png" id="image_ivs_jhs_jpb"
@@ -40,7 +40,7 @@
                 </info>
             </step>
         </steps>
-        <result id="result_uny_kzr_jpb">You can work on a view containing all repeated segments in
+        <result id="result_uny_kzr_jpb">You can work on a view containing all repeating segments in
             your project.<fig id="fig_jfc_b3s_jpb">
                 <image href="../../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="800">
                     <alt>An example memoQ view containing repetitions</alt>

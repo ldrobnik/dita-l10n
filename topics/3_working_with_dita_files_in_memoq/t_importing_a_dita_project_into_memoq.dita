@@ -76,7 +76,8 @@
             </step>
             <step>
                 <cmd>Click <uicontrol>…</uicontrol> next to the <uicontrol>Base path</uicontrol>
-                    field and choose the folder where your project is located.</cmd>
+                    field, choose the folder where your project is located, and click
+                        <uicontrol>OK</uicontrol>.</cmd>
                 <info>
                     <fig id="fig_hjq_1sr_jpb">
                         <image href="../../images/memoq-base-path.png" id="image_b54_p3s_jpb"
@@ -85,9 +86,6 @@
                         </image>
                     </fig>
                 </info>
-            </step>
-            <step>
-                <cmd>Click <uicontrol>OK</uicontrol>.</cmd>
             </step>
             <step>
                 <cmd>In the <uicontrol>Document import options</uicontrol> dialog, remove any files
@@ -108,8 +106,8 @@
                     width="800">
                     <alt>DITA project imported into memoQ</alt>
                 </image>
-            </fig><note id="note_xcv_3sr_jpb">To export a translated project, right-click the root
-                folder and choose <menucascade>
+            </fig><note id="note_xcv_3sr_jpb">To export a translated project, right-click on the
+                root folder and choose <menucascade>
                     <uicontrol>Export</uicontrol>
                     <uicontrol>Export (Stored Path)</uicontrol>
                 </menucascade>.</note></result>
