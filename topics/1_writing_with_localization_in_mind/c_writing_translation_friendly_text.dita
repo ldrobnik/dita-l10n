@@ -52,7 +52,7 @@
             <title>Formating</title>
             <p>Search your text for unintended linebreaks and punctuation marks (such as periods in
                 place of commas). Translation tools may misinterpret such characters and split
-                sentences into artificial units. This can lead to translation errors and
+                sentences into separate units. This can lead to translation errors and
                 inconsistencies.</p>
             <note id="note_kv1_gbq_jpb" type="important">When localizing a DITA project, always send
                 the translators your source files rather than the output, for instance PDF or HTML
