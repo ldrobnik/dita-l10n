@@ -13,7 +13,8 @@
         </critdates>
     </topicmeta>
     <topichead navtitle="Writing with localization in mind">
-        <topicref href="topics/1_writing_with_localization_in_mind/c_writing_translation_friendly_text.dita"/>
+        <topicref
+            href="topics/1_writing_with_localization_in_mind/c_writing_translation_friendly_text.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"/>
         <topicref
@@ -48,10 +49,10 @@
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"
-                />
+                    href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"/>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"/>
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"
+                />
             </relcell>
         </relrow>
         <relrow>
