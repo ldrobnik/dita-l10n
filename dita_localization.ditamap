@@ -38,6 +38,10 @@
         <topicref href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
         />
     </topichead>
+    <topichead navtitle="Download the manual">
+        <topicref href="documents/dita_localization.pdf" format="pdf"
+            navtitle="Download the manual as a PDF"/>
+    </topichead>
     <reltable>
         <relrow>
             <relcell>
