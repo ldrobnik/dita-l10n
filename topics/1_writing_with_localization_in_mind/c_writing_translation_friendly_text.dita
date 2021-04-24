@@ -57,8 +57,8 @@
             <p>Avoid using pagebreaks and empty lines to layout your document. The same content can
                 have a different volume in different languages.</p>
             <note id="note_kv1_gbq_jpb" type="important">When localizing a DITA project, always send
-                the translators your source files rather than the output, for instance PDF or HTML
-                files.</note>
+                the translators your source files rather than the output (such as PDF or HTML
+                files).</note>
         </section>
     </conbody>
 </concept>
