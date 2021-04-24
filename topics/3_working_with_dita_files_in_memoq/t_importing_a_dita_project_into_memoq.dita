@@ -106,8 +106,8 @@
                     width="800">
                     <alt>DITA project imported into memoQ</alt>
                 </image>
-            </fig><note id="note_xcv_3sr_jpb">To export a translated project, right-click on the
-                root folder and choose <menucascade>
+            </fig><note id="note_xcv_3sr_jpb" type="tip">To export a translated project, right-click
+                on the root folder and choose <menucascade>
                     <uicontrol>Export</uicontrol>
                     <uicontrol>Export (Stored Path)</uicontrol>
                 </menucascade>.</note></result>
