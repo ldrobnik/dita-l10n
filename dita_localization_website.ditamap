@@ -15,7 +15,6 @@
     <topichead navtitle="Writing with localization in mind">
         <topicref
             href="topics/1_writing_with_localization_in_mind/c_writing_translation_friendly_text.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
         <topicref
@@ -28,6 +27,8 @@
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_localization_related_attributes.dita"/>
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting.dita"/>
+        <topicref
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_keyrefs_and_conkeyrefs.dita"
         />
@@ -59,7 +60,7 @@
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
+                <topicref href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
             </relcell>
             <relcell>
                 <topicref
@@ -112,7 +113,7 @@
                 />
             </relcell>
             <relcell>
-                <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
+                <topicref href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
             </relcell>
         </relrow>
         <relrow>
@@ -146,7 +147,7 @@
                 />
             </relcell>
             <relcell>
-                <topicref href="topics/1_writing_with_localization_in_mind/c_content_reuse.dita"/>
+                <topicref href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
             </relcell>
         </relrow>
         <relrow>
