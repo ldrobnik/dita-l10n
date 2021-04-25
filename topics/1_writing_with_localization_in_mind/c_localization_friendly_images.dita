@@ -2,8 +2,30 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_localization_friendly_images">
     <title>Localization-friendly images</title>
-    <shortdesc/>
+    <shortdesc>Learn a few tips to make images in your project easier to localize.</shortdesc>
     <conbody>
-        <p/>
+        <section id="section_rqh_kkf_kpb">
+            <title>Image format</title>
+            <p>If your images contain text that needs to be localized, avoid using bitmaps, such as
+                JPG or PNG files. Instead, use SVG files. Most CAT tools can translate text embedded
+                in SVG files.</p>
+        </section>
+        <section id="section_fct_kkf_kpb">
+            <title>Callouts</title>
+            <p>To simplify the localization process, avoid using descriptions within images.
+                Instead, use number callouts and explain them under the image</p>
+            <fig id="fig_fbl_rlf_kpb">
+                <image href="../../images/writing-callouts.png" id="image_kld_slf_kpb" width="650">
+                    <alt>A 'fig' DITA element containing an image with two callouts that are
+                        explained in a numbered list below the image</alt>
+                </image>
+            </fig>
+        </section>
+        <section id="section_lbr_lkf_kpb">
+            <title>UI screens</title>
+            <p>If your documentation contains user interface (UI) screenshots, it is important to
+                consider whether the UI is localized. If that is the case, you need to plan
+                additional steps to prepare screenshots of UI translated into target languages.</p>
+        </section>
     </conbody>
 </concept>
