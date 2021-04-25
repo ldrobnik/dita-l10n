@@ -13,7 +13,7 @@
         <section id="section_fct_kkf_kpb">
             <title>Callouts</title>
             <p>To simplify the localization process, avoid using descriptions within images.
-                Instead, use number callouts and explain them under the image</p>
+                Instead, use numbered callouts and explain them under the image</p>
             <fig id="fig_fbl_rlf_kpb">
                 <image href="../../images/writing-callouts.png" id="image_kld_slf_kpb" width="650">
                     <alt>A 'fig' DITA element containing an image with two callouts that are
@@ -23,9 +23,10 @@
         </section>
         <section id="section_lbr_lkf_kpb">
             <title>UI screens</title>
-            <p>If your documentation contains user interface (UI) screenshots, it is important to
+            <p>If your documentation contains user interface (UI) screens, it is important to
                 consider whether the UI is localized. If that is the case, you need to plan
-                additional steps to prepare screenshots of UI translated into target languages.</p>
+                additional steps to prepare screenshots of the UI translated into target
+                languages.</p>
         </section>
     </conbody>
 </concept>
