@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_resolving_conrefs_and_keyrefs">
+    <title>Resolving conrefs and keyrefs</title>
+    <shortdesc>Learn how to quickly replace content references and key references with
+        content.</shortdesc>
+    <taskbody>
+        <context>When preparing your project for localization, it may be useful to replace content
+            references (conrefs) and key references (keyrefs) with content. To resolve all conrefs
+            and keyrefs in a topic, follow these steps:<p/></context>
+    </taskbody>
+</task>

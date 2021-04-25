@@ -30,7 +30,7 @@
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_keyrefs_and_conkeyrefs.dita"
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"
         />
     </topichead>
     <topichead navtitle="Translating content in memoQ">
@@ -56,11 +56,13 @@
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
+                <topicref
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"
+                />
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_keyrefs_and_conkeyrefs.dita"/>
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"/>
                 <topicref
                     href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"
                 />
@@ -109,7 +111,9 @@
                 />
             </relcell>
             <relcell>
-                <topicref href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
+                <topicref
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"
+                />
             </relcell>
         </relrow>
         <relrow>
@@ -139,11 +143,13 @@
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_keyrefs_and_conkeyrefs.dita"
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"
                 />
             </relcell>
             <relcell>
-                <topicref href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
+                <topicref
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"
+                />
             </relcell>
         </relrow>
         <relrow>
