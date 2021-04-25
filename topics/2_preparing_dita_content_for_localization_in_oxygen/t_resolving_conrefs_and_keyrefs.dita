@@ -14,7 +14,8 @@
                         <uicontrol>Author</uicontrol> mode.</cmd>
                 <info>
                     <fig id="fig_kl1_sx2_kpb">
-                        <image href="../../images/oxygen-author-mode.png" id="image_inj_sx2_kpb">
+                        <image href="../../images/oxygen-author-mode.png" id="image_inj_sx2_kpb"
+                            width="750">
                             <alt>Author mode in oXygen</alt>
                         </image>
                     </fig>
@@ -28,7 +29,7 @@
                 <info>
                     <fig id="fig_jls_vx2_kpb">
                         <image href="../../images/oxygen-replace-references.png"
-                            id="image_k4b_wx2_kpb">
+                            id="image_k4b_wx2_kpb" width="750">
                             <alt>'DITA' menu in oXygen with the 'Replace All References with
                                 Content' option</alt>
                         </image>
@@ -38,7 +39,8 @@
         </steps>
         <result id="result_emk_dy2_kpb">All references in the topic are replaced with content.<fig
                 id="fig_icy_2y2_kpb">
-                <image href="../../images/oxygen-resolving-result.png" id="image_s5k_fy2_kpb">
+                <image href="../../images/oxygen-resolving-result.png" id="image_s5k_fy2_kpb"
+                    width="750">
                     <alt>A comparison of DITA code before and after resolving references. All
                         references are replaced with appropriate content.</alt>
                 </image>
