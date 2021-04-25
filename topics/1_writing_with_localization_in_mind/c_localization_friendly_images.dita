@@ -24,9 +24,8 @@
         <section id="section_lbr_lkf_kpb">
             <title>UI screens</title>
             <p>If your documentation contains user interface (UI) screens, it is important to
-                consider whether the UI is localized. If that is the case, you need to plan
-                additional steps to prepare screenshots of the UI translated into target
-                languages.</p>
+                consider whether the UI is going to be localized. You may need to plan for
+                additional steps to prepare UI screens in target languages.</p>
         </section>
     </conbody>
 </concept>
