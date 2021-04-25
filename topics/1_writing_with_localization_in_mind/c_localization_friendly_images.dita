@@ -10,10 +10,11 @@
                 JPG or PNG files. Instead, use SVG files. Most CAT tools can translate text embedded
                 in SVG files.</p>
         </section>
+        <section>S</section>
         <section id="section_fct_kkf_kpb">
             <title>Callouts</title>
             <p>To simplify the localization process, avoid using descriptions within images.
-                Instead, use numbered callouts and explain them under the image</p>
+                Instead, use numbered callouts and explain them under the image.SS</p>
             <fig id="fig_fbl_rlf_kpb">
                 <image href="../../images/writing-callouts.png" id="image_kld_slf_kpb" width="650">
                     <alt>A 'fig' DITA element containing an image with two callouts that are
