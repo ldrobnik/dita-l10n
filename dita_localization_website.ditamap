@@ -13,8 +13,7 @@
         </critdates>
     </topicmeta>
     <topichead navtitle="Writing with localization in mind">
-        <topicref
-            href="topics/1_writing_with_localization_in_mind/c_translation_friendly_text.dita"/>
+        <topicref href="topics/1_writing_with_localization_in_mind/c_translation_friendly_text.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"/>
         <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
         <topicref

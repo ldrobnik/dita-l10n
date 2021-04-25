@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>dita_localization_pdf.ditamap</String>
+                                    <String>dita_localization.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>dita_localization (PDF (CSS Formatter - HTML5))</String>
+                                        <String>dita_localization (WebHelp Responsive)</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -50,23 +50,20 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>dita_localization.ditamap</String>
+                                    <String>dita_localization_pdf.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>dita_localization (WebHelp Responsive)</String>
                                         <String>dita_localization (PDF (CSS Formatter - HTML5))</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
-                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
