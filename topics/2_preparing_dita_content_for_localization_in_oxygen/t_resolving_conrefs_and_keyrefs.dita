@@ -37,8 +37,8 @@
                 </info>
             </step>
         </steps>
-        <result id="result_emk_dy2_kpb">All references in the topic are replaced with content.<fig
-                id="fig_icy_2y2_kpb">
+        <result id="result_emk_dy2_kpb">All references in the topic are replaced with relevant
+                content.<fig id="fig_icy_2y2_kpb">
                 <image href="../../images/oxygen-resolving-result.png" id="image_s5k_fy2_kpb"
                     width="750">
                     <alt>A comparison of DITA code before and after resolving references. All
