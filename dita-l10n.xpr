@@ -14,7 +14,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>dita_localization (WebHelp Responsive)</String>
+                                        <String>dita_localization (PDF (CSS Formatter - HTML5))</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
