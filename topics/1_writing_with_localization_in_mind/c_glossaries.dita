@@ -7,13 +7,13 @@
         <section id="section_ly1_shl_kpb">
             <title>Consistency</title>
             <p>Glossaries are the easiest way to improve consistency of translated text. Different
-                translators (or even the same translator) can translate the same term in various
-                ways. Giving them a glossary of approved translations can increase the consistency
-                of terminology in one project or different projects on the same product.</p>
+                translators (or even the same translator at different times) can translate the same
+                term in various ways. Giving them a glossary of approved translations can increase
+                the consistency of terminology in one project or different projects concerning the
+                same product.</p>
             <note id="note_owy_djl_kpb">Most CAT tools enable automatic terminology checks to ensure
                 a translator has used terms from the glossary. Although such checks are less useful
-                in languages in which grammatical forms of the same word can be very
-                different.</note>
+                in languages in which the same word can have various grammatical forms .</note>
         </section>
         <section id="section_b1n_whl_kpb">
             <title>Non-translatable text</title>
@@ -24,7 +24,7 @@
             <title>Forbidden terms</title>
             <p>If you don't want a given term to be tarnslated in a particular way, a glossary is
                 also a good place to specify that. For example, the word "pacemaker" can be
-                translated into Polish as "rozrusznik", but you want translators to use the less
+                translated into Polish as "rozrusznik", but you may want translators to use the less
                 colloquial "stymulator" instead.</p>
         </section>
         <section id="section_yld_d3l_kpb">
@@ -36,8 +36,8 @@
             <p>Glossaries (called term bases) can be developed directly in a CAT tool. Most CAT
                 tools have their own term base format, but you can use a universal format called
                 TermBase eXchange (TBX) to exchange term bases between different tools.</p>
-            <p>You can also prepare glossaries as CSV files in a spreadsheet editor and then import
-                them into a CAT tool.</p>
+            <p>You can also prepare a glossary as a CSV file in a spreadsheet editor and then import
+                it into a CAT tool.</p>
             <fig id="fig_cjc_mml_kpb">
                 <title>A simple bilingual glossary developed in a spreadsheet editor</title>
                 <image href="../../images/writing-glossary.png" id="image_urr_4pl_kpb">
