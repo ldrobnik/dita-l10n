@@ -21,7 +21,7 @@
     </topichead>
     <topichead navtitle="Preparing content in oXygen">
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"/>
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"/>
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_localization_related_attributes.dita"/>
         <topicref
@@ -53,8 +53,7 @@
                 <topicref
                     href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"/>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"
-                />
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"/>
             </relcell>
         </relrow>
         <relrow>
@@ -66,9 +65,6 @@
             <relcell>
                 <topicref
                     href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"/>
-                <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"
-                />
             </relcell>
         </relrow>
         <relrow>
@@ -76,6 +72,8 @@
                 <topicref
                     href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"
                 />
+                <topicref
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"/>
             </relcell>
             <relcell>
                 <topicref
@@ -110,8 +108,7 @@
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"
-                />
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"/>
             </relcell>
             <relcell>
                 <topicref
@@ -163,7 +160,7 @@
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_organizing_your_project_structure.dita"/>
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"/>
                 <topicref
                     href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
                 />
