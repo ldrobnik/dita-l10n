@@ -24,20 +24,35 @@
             <p>For larger projects, it may be useful to create separate folders for topics of each
                 type (that is concepts, tasks, references, and glossary entries). This will make
                 managing the project easier.</p>
-            <fig id="fig_czj_dtn_kpb"/>
+            <fig id="fig_czj_dtn_kpb">
+                <image href="../../images/oxygen-basic-structure.svg" id="image_vnf_3zn_kpb">
+                    <alt>A flow chart depicting basic project structure with separe folders for
+                        images and each type of topics</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_qfv_1pn_kpb">
             <title>Language versions</title>
             <p>To make the localization process easier, create a separate subfolder for each
                 language version. Each subfolder should have the same structure.</p>
-            <fig id="fig_ptv_j5n_kpb"/>
+            <fig id="fig_ptv_j5n_kpb">
+                <image href="../../images/oxygen-language-folders.svg" id="image_vpr_jzn_kpb">
+                    <alt>A flow chart depicting project structure divided into separe folders for
+                        different language versions</alt>
+                </image>
+            </fig>
         </section>
         <section id="section_jrt_bpn_kpb">
             <title>Untranslated files</title>
             <p>Some files, such as images and other content, will be shared among language versions.
                 They don't need to be translated. It is a good idea to share files you don't want to
                 translate in a separate folder.</p>
-            <fig id="fig_dlr_dtn_kpb"/>
+            <fig id="fig_dlr_dtn_kpb">
+                <image href="../../images/oxygen-common-folder.svg" id="image_k2n_kzn_kpb">
+                    <alt>A flow chart depicting project structure divided into separe folders for
+                        different language versions and a common folder for untranslated files</alt>
+                </image>
+            </fig>
         </section>
     </conbody>
 </concept>
