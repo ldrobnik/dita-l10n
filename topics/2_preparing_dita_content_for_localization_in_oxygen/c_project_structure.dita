@@ -45,7 +45,7 @@
         <section id="section_jrt_bpn_kpb">
             <title>Untranslated files</title>
             <p>Some files, such as images and other content, will be shared among language versions.
-                They don't need to be translated. It is a good idea to share files you don't want to
+                They don't need to be translated. It's a good idea to keep files you don't want to
                 translate in a separate folder.</p>
             <fig id="fig_dlr_dtn_kpb">
                 <image href="../../images/oxygen-common-folder.svg" id="image_k2n_kzn_kpb">
