@@ -2,12 +2,28 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_non_translatable_text">
     <title>Non-translatable content</title>
-    <shortdesc/>
+    <shortdesc>Learn about types of content that you may wish to leave untranslated.</shortdesc>
     <conbody>
-        <p/>
+        <section id="section_cvc_jfm_kpb">
+            <title>Types of non-translatable content</title>
+            <p>When you plan the localization of your project, it is important to identify content
+                that should be left untranslated. Here are a few examples of such content:</p>
+            <ul id="ul_rlp_qfm_kpb">
+                <li>proper names, such as brand names</li>
+                <li>contact details</li>
+                <li>code blocks</li>
+                <li>UI text (if the UI is not localized)</li>
+                <li>legal text (may need to be handled separately)</li>
+            </ul>
+            <note id="note_s2q_qhm_kpb" type="tip">You can use <xref href="c_glossaries.dita"
+                    >glossaries</xref> to identify content that must be left untranslated.</note>
+        </section>
         <section id="section_w3j_3kk_jpb">
-            <title>UI strings</title>
-            <p/>
+            <title>UI text</title>
+            <p>If your project contains references to UI text, it is important to consider whether
+                the UI is translated and if so, into which languages. If the UI is not localized,
+                you should instruct translators on how they should approach UI text. For example,
+                you may want them to provide a translation in brackets.</p>
         </section>
     </conbody>
 </concept>
