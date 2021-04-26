@@ -25,7 +25,7 @@
                 type (that is concepts, tasks, references, and glossary entries). This will make
                 managing the project easier.</p>
             <fig id="fig_czj_dtn_kpb">
-                <image href="../../images/oxygen-basic-structure.png" id="image_vnf_3zn_kpb">
+                <image href="../../images/oxygen-basic-structure.svg" id="image_vnf_3zn_kpb">
                     <alt>A flow chart depicting basic project structure with separe folders for
                         images and each type of topics</alt>
                 </image>
@@ -36,7 +36,7 @@
             <p>To make the localization process easier, create a separate subfolder for each
                 language version. Each subfolder should have the same structure.</p>
             <fig id="fig_ptv_j5n_kpb">
-                <image href="../../images/oxygen-language-folders.png" id="image_vpr_jzn_kpb">
+                <image href="../../images/oxygen-language-folders.svg" id="image_vpr_jzn_kpb">
                     <alt>A flow chart depicting project structure divided into separe folders for
                         different language versions</alt>
                 </image>
@@ -48,7 +48,7 @@
                 They don't need to be translated. It's a good idea to keep files you don't want to
                 translate in a separate folder.</p>
             <fig id="fig_dlr_dtn_kpb">
-                <image href="../../images/oxygen-common-folder.png" id="image_k2n_kzn_kpb">
+                <image href="../../images/oxygen-common-folder.svg" id="image_k2n_kzn_kpb">
                     <alt>A flow chart depicting project structure divided into separe folders for
                         different language versions and a common folder for untranslated files</alt>
                 </image>
