@@ -35,7 +35,7 @@
     <topichead navtitle="Translating content in memoQ">
         <topicref
             href="topics/t_importing_a_dita_project_into_memoq.dita"/>
-        <topicref href="topics/t_translating%20repetitions.dita"
+        <topicref href="topics/t_translating_repetitions.dita"
         />
     </topichead>
     <reltable>
@@ -161,14 +161,14 @@
                 <topicref
                     href="topics/c_project_structure.dita"/>
                 <topicref
-                    href="topics/t_translating%20repetitions.dita"
+                    href="topics/t_translating_repetitions.dita"
                 />
             </relcell>
         </relrow>
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/t_translating%20repetitions.dita"
+                    href="topics/t_translating_repetitions.dita"
                 />
             </relcell>
             <relcell>
