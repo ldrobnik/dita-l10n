@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_localization_related_attributes">
+    <title>Preparing DITA code for localization</title>
+    <shortdesc/>
+    <conbody>
+        <section id="section_gm5_xks_kpb">
+            <title>Setting the language of topics and maps</title>
+            <p/>
+        </section>
+        <section id="section_gt2_zks_kpb">
+            <title>Identifying content not to be translated</title>
+            <p/>
+        </section>
+    </conbody>
+</concept>
