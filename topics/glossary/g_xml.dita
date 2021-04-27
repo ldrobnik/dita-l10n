@@ -2,6 +2,6 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="g_xml" xml:lang="en-US" dir="ltr">
     <glossterm>XML</glossterm>
-    <glossdef>extensible markup language; a markup language designed to store and transport data in
-        a format that is both human-readable and machine-readable</glossdef>
+    <glossdef>eXtensible Markup Language; a markup language designed to store and transport data in
+        a format that is both human-readable and machine-readable.</glossdef>
 </glossentry>

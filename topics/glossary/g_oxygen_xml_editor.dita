@@ -2,6 +2,6 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="g_oxygen" xml:lang="en-US" dir="ltr">
     <glossterm>oXygen XML Editor</glossterm>
-    <glossdef>a popular <term keyref="g_xml"/> editor offering advanced features for working with
-            <term keyref="g_dita"/>projects</glossdef>
+    <glossdef>A popular XML editor offering advanced features for working with DITA
+        projects.</glossdef>
 </glossentry>

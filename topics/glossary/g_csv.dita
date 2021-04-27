@@ -2,6 +2,6 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="g_csv" xml:lang="en-US" dir="ltr">
     <glossterm>CSV</glossterm>
-    <glossdef>comma-separated values; a text file format that uses commas to separate
-        values</glossdef>
+    <glossdef>Comma-Separated Values; a text file format that uses commas to separate
+        values.</glossdef>
 </glossentry>

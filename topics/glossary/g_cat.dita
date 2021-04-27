@@ -2,6 +2,7 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="g_cat" xml:lang="en-US" dir="ltr">
     <glossterm>CAT</glossterm>
-    <glossdef>computer-assisted translation; the use of software tools (such as translation memory tools and terminology managers)
-        to assist a human translator in the translation process</glossdef>
+    <glossdef>Computer-Assisted Translation; the use of software tools (such as translation memory
+        tools and terminology managers) to assist a human translator in the translation
+        process.</glossdef>
 </glossentry>

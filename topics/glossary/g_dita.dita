@@ -2,6 +2,6 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="g_dita" xml:lang="en-US" dir="ltr">
     <glossterm>DITA</glossterm>
-    <glossdef>Darwin information typing architecture; a standard <term keyref="g_xml"/>-based
-        architecture for creating topic-based documentation</glossdef>
+    <glossdef>Darwin Information Typing Architecture; a standard XML-based architecture for creating
+        topic-based documentation.</glossdef>
 </glossentry>
