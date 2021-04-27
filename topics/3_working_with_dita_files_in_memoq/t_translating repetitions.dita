@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="t_working_with_views" xml:lang="en-US">
+<task id="t_working_with_views" xml:lang="en-US" dir="ltr">
     <title>Translating repetitions</title>
     <shortdesc>Learn how to simplify your translation process in memoQ by creating a view containing
         only repetitions.</shortdesc>

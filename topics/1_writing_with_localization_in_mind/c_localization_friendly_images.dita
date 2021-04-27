@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_localization_friendly_images" xml:lang="en-US">
+<concept id="c_localization_friendly_images" xml:lang="en-US" dir="ltr">
     <title>Localization-friendly images</title>
     <shortdesc>Learn a few tips to make images in your project easier to localize.</shortdesc>
     <conbody>

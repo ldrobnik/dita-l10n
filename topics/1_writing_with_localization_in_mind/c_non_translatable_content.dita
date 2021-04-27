@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_non_translatable_text" xml:lang="en-US">
+<concept id="c_non_translatable_text" xml:lang="en-US" dir="ltr">
     <title>Non-translatable content</title>
     <shortdesc>Learn about types of content that you may wish to leave untranslated.</shortdesc>
     <conbody>

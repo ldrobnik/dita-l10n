@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_text_sorting" xml:lang="en-US">
+<concept id="c_text_sorting" xml:lang="en-US" dir="ltr">
     <title>Text sorting and direction</title>
     <shortdesc>Learn how to adjust text sorting using the <codeph>sort-as</codeph> and
             <codeph>index-sort-as</codeph> elements and change text direction using the
