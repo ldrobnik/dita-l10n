@@ -36,7 +36,7 @@
                 languages like Hebrew or Arabic that use right-to-left (RTL). To optimize
                 localization, it's a best practice to specify text direction using the
                     <codeph>dir</codeph> attribute:</p>
-            <codeblock id="codeblock_s3f_pft_kpb">&lt;xml:lang="ar-IQ" dir ="rtl"></codeblock>
+            <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir ="rtl"></codeblock>
             <note id="note_sjc_xft_kpb"
                 conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
             />
