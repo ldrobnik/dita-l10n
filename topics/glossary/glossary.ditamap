@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map xml:lang="en-US" dir="ltr">
     <title>Glossary</title>
-    <keydef keys="g_computer_aided_translation" href="g_computer_aided_translation.dita"/>
+    <keydef keys="g_cat" href="g_cat.dita"/>
     <keydef keys="g_csv" href="g_csv.dita"/>
     <keydef keys="g_dita" href="g_dita.dita"/>
     <keydef keys="g_memoq" href="g_memoq.dita"/>
@@ -10,7 +10,7 @@
     <keydef keys="g_svg" href="g_svg.dita"/>
     <keydef keys="g_xml" href="g_xml.dita"/>
     <topicref href="r_glossary.dita" chunk="to-content">
-        <topicref keyref="g_computer_aided_translation" toc="no"/>
+        <topicref keyref="g_cat" toc="no"/>
         <topicref keyref="g_csv" toc="no"/>
         <topicref keyref="g_dita" toc="no"/>
         <topicref keyref="g_memoq" toc="no"/>

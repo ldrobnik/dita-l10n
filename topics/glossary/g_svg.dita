@@ -2,11 +2,6 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="g_svg" xml:lang="en-US" dir="ltr">
     <glossterm>SVG</glossterm>
-    <glossdef>an <term keyref="g_xml"/>-based vector graphics format</glossdef>
-    <glossBody>
-        <glossSurfaceForm>SVG (Scalable Vector Graphics)</glossSurfaceForm>
-        <glossAlt id="glossAlt_g_svg">
-            <glossAcronym>SVG</glossAcronym>
-        </glossAlt>
-    </glossBody>
+    <glossdef>scalable vector graphics; an <term keyref="g_xml"/>-based vector graphics
+        format</glossdef>
 </glossentry>
