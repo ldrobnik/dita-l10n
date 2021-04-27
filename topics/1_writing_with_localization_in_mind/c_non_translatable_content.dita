@@ -7,7 +7,7 @@
         <section id="section_cvc_jfm_kpb">
             <title>Types of non-translatable content</title>
             <p>When you plan the localization of your project, it is important to identify content
-                that should be left untranslated. Here are a few examples of such content:</p>
+                that should be left untranslated. Here are a few examples of such content:
             <ul id="ul_rlp_qfm_kpb">
                 <li>proper names, such as brand names</li>
                 <li>contact details</li>
@@ -17,6 +17,7 @@
             </ul>
             <note id="note_s2q_qhm_kpb" type="tip">You can use <xref href="c_glossaries.dita"
                     >glossaries</xref> to identify content that must be left untranslated.</note>
+            </p>
         </section>
         <section id="section_w3j_3kk_jpb">
             <title>UI text</title>

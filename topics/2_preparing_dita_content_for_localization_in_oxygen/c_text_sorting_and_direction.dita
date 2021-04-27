@@ -13,33 +13,32 @@
                 because the same character can have different pronunciations depending on the
                 meaning.</p>
             <p>To specify text that will be used for sorting, add a <codeph>sort-as</codeph> element
-                inside a sorted element:</p>
+                inside a sorted element:
             <codeblock id="codeblock_kyp_1xs_kpb">&lt;glossentry id="gloss-harry-potter">
   &lt;glossterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm>
   &lt;prolog>
     &lt;sort-as>Harry Potter&lt;/sort-as>
   &lt;/prolog>
     &lt;glossdef>&lt;/glossdef>
-&lt;/glossentry></codeblock>
+    &lt;/glossentry></codeblock></p>
         </section>
         <section id="section_og2_xvs_kpb">
             <title>Sorting index terms using the index-sort-as element</title>
             <p>Similarly, you can adjust the storting order of index terms by adding the
-                    <codeph>index-sort-as</codeph> element:</p>
+                    <codeph>index-sort-as</codeph> element:
             <codeblock id="codeblock_uyj_dbt_kpb">&lt;indexterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
   &lt;index-sort-as>Harry Potter&lt;/index-sort-as>
-&lt;/indexterm></codeblock>
+  &lt;/indexterm></codeblock></p>
         </section>
         <section id="section_tnw_xvs_kpb">
             <title>Changing text direction using the dir element</title>
             <p>English and many other languages use left-to-right (LTR) script. But there are many
                 languages like Hebrew or Arabic that use right-to-left (RTL). To optimize
                 localization, it's a best practice to specify text direction using the
-                    <codeph>dir</codeph> attribute:</p>
-            <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir ="rtl"></codeblock>
+                    <codeph>dir</codeph> attribute:
+                <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir ="rtl"></codeblock></p>
             <note id="note_sjc_xft_kpb"
-                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
-            />
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
         </section>
     </conbody>
 </concept>
