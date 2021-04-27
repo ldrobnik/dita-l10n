@@ -19,10 +19,24 @@
             <note id="note_rz1_5ss_kpb"
                 conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
             />
+            <p>Improper use of content referencing can lead to translation errors (such as wrong
+                gramamtical forms or text not matching the context). To avoid such errors, follow
+                these rules:<ul id="ul_ps1_w5t_kpb">
+                    <li>Don't use conrefs for incomplete phrases. Instead, use them to reference
+                        whole sentences or larger fragments.</li>
+                    <li>Avoid excessive content reuse. This may make it harder for translators to
+                        know the context of translated text.</li>
+                </ul></p>
         </section>
         <section id="section_qfv_l5d_jpb">
             <title>Handling keyrefs</title>
-            <p/>
+            <p>When used improperly, keyrefs can also lead to translation errors. You can avoid them
+                by using these tips:<ul id="ul_w43_qvt_kpb">
+                    <li/>
+                </ul></p>
+            <note id="note_rlw_htt_kpb" type="tip">To avoid translation errors, it may be a good
+                idea to <xref href="t_resolving_conrefs_and_keyrefs.dita">resolve all conrefs and
+                    keyrefs</xref> before localizing your project.</note>
         </section>
     </conbody>
 </concept>
