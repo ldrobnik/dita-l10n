@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map xml:lang="en-US" dir="ltr">
     <title>Glossary</title>
+    <keydef keys="g_computer_aided_translation" href="g_computer_aided_translation.dita"/>
+    <keydef keys="g_csv" href="g_csv.dita"/>
+    <keydef keys="g_dita" href="g_dita.dita"/>
+    <keydef keys="g_memoq" href="g_memoq.dita"/>
+    <keydef keys="g_oxygen_xml_editor" href="g_oxygen_xml_editor.dita"/>
+    <keydef keys="g_svg" href="g_svg.dita"/>
+    <keydef keys="g_xml" href="g_xml.dita"/>
+    <topicref href="r_glossary.dita" chunk="to-content">
+        <topicref keyref="g_computer_aided_translation"/>
+        <topicref keyref="g_csv"/>
+        <topicref keyref="g_dita"/>
+        <topicref keyref="g_memoq"/>
+        <topicref keyref="g_oxygen_xml_editor"/>
+        <topicref keyref="g_svg"/>
+        <topicref keyref="g_xml"/>
+    </topicref>
 </map>
