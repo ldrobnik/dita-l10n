@@ -19,7 +19,7 @@
                 <cmd>Right-click the files and choose <uicontrol>Create View</uicontrol>.</cmd>
                 <info>
                     <fig id="fig_q5n_zyr_jpb">
-                        <image href="../../images/memoq-create-view.png" id="image_ivs_jhs_jpb"
+                        <image href="../images/memoq-create-view.png" id="image_ivs_jhs_jpb"
                             width="800">
                             <alt>The 'Create View' option in memoQ 'Translations' screen</alt>
                         </image>
@@ -32,7 +32,7 @@
                     click <uicontrol>OK</uicontrol>.</cmd>
                 <info>
                     <fig id="fig_exj_jzr_jpb">
-                        <image href="../../images/memoq-create-view-dialog.png"
+                        <image href="../images/memoq-create-view-dialog.png"
                             id="image_its_zhs_jpb">
                             <alt>The 'Create view' dialog in memoQ</alt>
                         </image>
@@ -42,7 +42,7 @@
         </steps>
         <result id="result_uny_kzr_jpb">You can work on a view containing all repeating segments in
             your project.<fig id="fig_jfc_b3s_jpb">
-                <image href="../../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="800">
+                <image href="../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="800">
                     <alt>An example memoQ view containing repetitions</alt>
                 </image>
             </fig></result>

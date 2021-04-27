@@ -19,7 +19,7 @@
             <title>Identifying content not to be translated</title>
             <p>To identify a fragment that must not be translated, set the
                     <codeph>translate</codeph> attribute to ""no":
-            <codeblock id="codeblock_id5_mqs_kpb">&lt;codeblock id="codeblock_spells" translate="no">
+                <codeblock id="codeblock_id5_mqs_kpb">&lt;codeblock id="codeblock_spells" translate="no">
     let spellsLeft = 7;
     &lt;/codeblock></codeblock></p>
         </section>

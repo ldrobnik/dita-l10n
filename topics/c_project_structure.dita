@@ -14,18 +14,18 @@
         <section id="section_tby_z4n_kpb">
             <title>Prefixes vs. folders</title>
             <p>It is common practice to prefix topic names with "c_", "t_", "r_," and "_g" for
-                concepts, tasks, references, and glossary entries, respectively. For example:
-            <ul id="ul_irf_tqn_kpb">
-                <li><b>c_magic_wand.dita</b></li>
-                <li><b>t_how_to_cast_a_spell.dita</b></li>
-                <li><b>r_wand_specifications.dita</b></li>
-                <li><b>g_wand_shaft.dita</b></li>
-            </ul></p>
+                concepts, tasks, references, and glossary entries, respectively. For example: <ul
+                    id="ul_irf_tqn_kpb">
+                    <li><b>c_magic_wand.dita</b></li>
+                    <li><b>t_how_to_cast_a_spell.dita</b></li>
+                    <li><b>r_wand_specifications.dita</b></li>
+                    <li><b>g_wand_shaft.dita</b></li>
+                </ul></p>
             <p>For larger projects, it may be useful to create separate folders for topics of each
                 type (that is concepts, tasks, references, and glossary entries). This will make
                 managing the project easier.</p>
             <fig id="fig_czj_dtn_kpb">
-                <image href="../../images/oxygen-basic-structure.svg" id="image_vnf_3zn_kpb">
+                <image href="../images/oxygen-basic-structure.svg" id="image_vnf_3zn_kpb">
                     <alt>A flow chart depicting basic project structure with separe folders for
                         images and each type of topics</alt>
                 </image>
@@ -36,7 +36,7 @@
             <p>To make the localization process easier, create a separate subfolder for each
                 language version. Each subfolder should have the same structure.</p>
             <fig id="fig_ptv_j5n_kpb">
-                <image href="../../images/oxygen-language-folders.svg" id="image_vpr_jzn_kpb">
+                <image href="../images/oxygen-language-folders.svg" id="image_vpr_jzn_kpb">
                     <alt>A flow chart depicting project structure divided into separe folders for
                         different language versions</alt>
                 </image>
@@ -48,7 +48,7 @@
                 They don't need to be translated. It's a good idea to keep files you don't want to
                 translate in a separate folder.</p>
             <fig id="fig_dlr_dtn_kpb">
-                <image href="../../images/oxygen-common-folder.svg" id="image_k2n_kzn_kpb">
+                <image href="../images/oxygen-common-folder.svg" id="image_k2n_kzn_kpb">
                     <alt>A flow chart depicting project structure divided into separe folders for
                         different language versions and a common folder for untranslated files</alt>
                 </image>

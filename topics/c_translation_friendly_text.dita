@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_translation_friendly_text" xml:lang="en-US" dir="ltr">
+    <title>Translation-friendly text</title>
+    <shortdesc>Learn a few tips to make your text easier to translate and less likely to cause
+        translation errors.</shortdesc>
+    <conbody>
+        <section id="section_efs_sfp_jpb">
+            <title>Clarity</title>
+            <p>A text that is easy to understand is usually also easier to translate. To make your
+                writing clearer, use these tips: <ul id="ul_b5f_3gp_jpb">
+                    <li>Avoid overly long sentences and paragraphs.</li>
+                    <li>Repeat important words to avoid misunderstanding.<fig id="fig_ing_myp_jpb">
+                            <image href="../images/writing-repeating-words.svg"
+                                id="image_er4_myp_jpb" width="400">
+                                <alt>For example, instead of writing 'If the shaft of your wand
+                                    breaks, you can get a new one online,' write 'If the shaft of
+                                    your wand breaks, you can get a new wand online.'</alt>
+                            </image>
+                        </fig></li>
+                    <li>Don't describe more than one action in a sentence unless writing about
+                        strictly related actions.</li>
+                    <li>Use words such as "and," "then," "but," "a," "the," "this," and "that" to
+                        make your message clear.</li>
+                </ul></p>
+        </section>
+        <section id="section_xv1_p3p_jpb">
+            <title>Grammar</title>
+            <p>You can make your text easier to understand by using certain grammatical forms. To
+                make your writing clearer, follow these rules: <ul id="ul_ax4_kjp_jpb">
+                    <li>Express actions with verbs, not nouns.<fig id="fig_oqc_zjp_jpb">
+                            <image href="../images/writing-actions.svg" id="image_jpp_4yp_jpb"
+                                width="400">
+                                <alt>For example, instead of writing 'Applying excessive force can
+                                    lead to rupture of your wand,' write 'If you apply excessive
+                                    force, your wand can break.'</alt>
+                            </image>
+                        </fig></li>
+                    <li>Use active voice.</li>
+                    <li>Split clusters of nouns into smaller logical units.<fig id="fig_gdn_zjp_jpb">
+                            <image href="../images/writing-noun-clusters.svg"
+                                id="image_xfz_4yp_jpb" width="400">
+                                <alt>For example, instead of writing 'magic wand cleaning center,'
+                                    write 'center for cleaning magic wands.'</alt>
+                            </image>
+                        </fig></li>
+                </ul></p>
+        </section>
+        <section id="section_lnc_1kp_jpb">
+            <title>Formating</title>
+            <p>Search your text for unintended linebreaks and punctuation marks (such as periods in
+                place of commas). Translation tools may misinterpret such characters and split
+                sentences into separate units. This can lead to translation errors and
+                inconsistencies.</p>
+            <p>Avoid using pagebreaks and empty lines to layout your document. The same content can
+                have a different volume in different languages.</p>
+            <note id="note_kv1_gbq_jpb" type="important">When localizing a DITA project, always send
+                the translators your source files rather than the output (such as PDF or HTML
+                files).</note>
+        </section>
+    </conbody>
+</concept>

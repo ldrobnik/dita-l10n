@@ -13,29 +13,29 @@
         </critdates>
     </topicmeta>
     <topichead navtitle="Writing with localization in mind">
-        <topicref href="topics/1_writing_with_localization_in_mind/c_translation_friendly_text.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"/>
-        <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
+        <topicref href="topics/c_translation_friendly_text.dita"/>
+        <topicref href="topics/c_non_translatable_content.dita"/>
+        <topicref href="topics/c_glossaries.dita"/>
         <topicref
-            href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"/>
+            href="topics/c_localization_friendly_images.dita"/>
     </topichead>
     <topichead navtitle="Preparing content in oXygen">
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"/>
+            href="topics/c_project_structure.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.dita"/>
+            href="topics/c_preparing_dita_code_for_localization.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting_and_direction.dita"/>
+            href="topics/c_text_sorting_and_direction.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
+            href="topics/c_content_reuse.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"
+            href="topics/t_resolving_conrefs_and_keyrefs.dita"
         />
     </topichead>
     <topichead navtitle="Translating content in memoQ">
         <topicref
-            href="topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"/>
-        <topicref href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
+            href="topics/t_importing_a_dita_project_into_memoq.dita"/>
+        <topicref href="topics/t_translating%20repetitions.dita"
         />
     </topichead>
     <topichead navtitle="Download the manual">
@@ -46,138 +46,138 @@
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_translation_friendly_text.dita"
+                    href="topics/c_translation_friendly_text.dita"
                 />
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"/>
+                    href="topics/c_localization_friendly_images.dita"/>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"
-                />
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"
-                />
-            </relcell>
-            <relcell>
-                <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"
+                    href="topics/c_project_structure.dita"
                 />
             </relcell>
         </relrow>
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"/>
-                <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"
+                    href="topics/c_content_reuse.dita"
                 />
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.dita"
-                />
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_localization_friendly_images.dita"
-                />
-            </relcell>
-            <relcell>
-                <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_translation_friendly_text.dita"/>
-                <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"
-                />
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/1_writing_with_localization_in_mind/c_glossaries.dita"/>
-            </relcell>
-            <relcell>
-                <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"
+                    href="topics/t_resolving_conrefs_and_keyrefs.dita"
                 />
             </relcell>
         </relrow>
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"
+                    href="topics/c_non_translatable_content.dita"/>
+                <topicref
+                    href="topics/c_project_structure.dita"
                 />
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"
-                />
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.dita"
-                />
-            </relcell>
-            <relcell>
-                <topicref
-                    href="topics/1_writing_with_localization_in_mind/c_non_translatable_content.dita"
+                    href="topics/c_preparing_dita_code_for_localization.dita"
                 />
             </relcell>
         </relrow>
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting_and_direction.dita"
+                    href="topics/c_localization_friendly_images.dita"
                 />
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.dita"
+                    href="topics/c_translation_friendly_text.dita"/>
+                <topicref
+                    href="topics/c_non_translatable_content.dita"
+                />
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_glossaries.dita"/>
+            </relcell>
+            <relcell>
+                <topicref
+                    href="topics/c_non_translatable_content.dita"
                 />
             </relcell>
         </relrow>
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/t_resolving_conrefs_and_keyrefs.dita"
+                    href="topics/c_project_structure.dita"
                 />
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"
-                />
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref
-                    href="topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"
-                />
-            </relcell>
-            <relcell>
-                <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_project_structure.dita"/>
-                <topicref
-                    href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
+                    href="topics/c_content_reuse.dita"
                 />
             </relcell>
         </relrow>
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/3_working_with_dita_files_in_memoq/t_translating%20repetitions.dita"
+                    href="topics/c_preparing_dita_code_for_localization.dita"
                 />
             </relcell>
             <relcell>
                 <topicref
-                    href="topics/3_working_with_dita_files_in_memoq/t_importing_a_dita_project_into_memoq.dita"
+                    href="topics/c_non_translatable_content.dita"
+                />
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref
+                    href="topics/c_text_sorting_and_direction.dita"
+                />
+            </relcell>
+            <relcell>
+                <topicref
+                    href="topics/c_preparing_dita_code_for_localization.dita"
+                />
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref
+                    href="topics/t_resolving_conrefs_and_keyrefs.dita"
+                />
+            </relcell>
+            <relcell>
+                <topicref
+                    href="topics/c_content_reuse.dita"
+                />
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref
+                    href="topics/t_importing_a_dita_project_into_memoq.dita"
+                />
+            </relcell>
+            <relcell>
+                <topicref
+                    href="topics/c_project_structure.dita"/>
+                <topicref
+                    href="topics/t_translating%20repetitions.dita"
+                />
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref
+                    href="topics/t_translating%20repetitions.dita"
+                />
+            </relcell>
+            <relcell>
+                <topicref
+                    href="topics/t_importing_a_dita_project_into_memoq.dita"
                 />
             </relcell>
         </relrow>

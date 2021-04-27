@@ -14,7 +14,7 @@
                 meaning.</p>
             <p>To specify text that will be used for sorting, add a <codeph>sort-as</codeph> element
                 inside a sorted element:
-            <codeblock id="codeblock_kyp_1xs_kpb">&lt;glossentry id="gloss-harry-potter">
+                <codeblock id="codeblock_kyp_1xs_kpb">&lt;glossentry id="gloss-harry-potter">
   &lt;glossterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm>
   &lt;prolog>
     &lt;sort-as>Harry Potter&lt;/sort-as>
@@ -26,7 +26,7 @@
             <title>Sorting index terms using the index-sort-as element</title>
             <p>Similarly, you can adjust the storting order of index terms by adding the
                     <codeph>index-sort-as</codeph> element:
-            <codeblock id="codeblock_uyj_dbt_kpb">&lt;indexterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
+                <codeblock id="codeblock_uyj_dbt_kpb">&lt;indexterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
   &lt;index-sort-as>Harry Potter&lt;/index-sort-as>
   &lt;/indexterm></codeblock></p>
         </section>
@@ -38,7 +38,8 @@
                     <codeph>dir</codeph> attribute:
                 <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir ="rtl"></codeblock></p>
             <note id="note_sjc_xft_kpb"
-                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
+            />
         </section>
     </conbody>
 </concept>

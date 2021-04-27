@@ -11,7 +11,7 @@
             <p>DITA lets you easily reuse content using the <codeph>conref</codeph> attribute.<fig
                     id="fig_yzb_h4t_kpb">
                     <title>Example of content referencing in DITA</title>
-                    <image href="../../images/oxygen-conrefs.svg" id="image_l3z_jrt_kpb">
+                    <image href="../images/oxygen-conrefs.svg" id="image_l3z_jrt_kpb">
                         <alt>Example of using the conref attribute to reuse content between
                             topics</alt>
                     </image>
@@ -32,7 +32,7 @@
             <p>Keyrefs can be used for standard text or expressions that can change, such as product
                     names.<fig id="fig_jdn_fyt_kpb">
                     <title>Example of keyword referencing in DITA</title>
-                    <image href="../../images/oxygen-keyrefs.svg" id="image_fct_5b5_kpb"/>
+                    <image href="../images/oxygen-keyrefs.svg" id="image_fct_5b5_kpb"/>
                     <image>
                         <alt>Example of using keydef and keyword elements in DITA</alt>
                     </image>
