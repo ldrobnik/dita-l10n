@@ -30,7 +30,13 @@
         <section id="section_qfv_l5d_jpb">
             <title>Handling keyrefs</title>
             <p>Keyrefs can be used for standard text or expressions that can change, such as product
-                    names.<fig id="fig_jdn_fyt_kpb"/></p>
+                    names.<fig id="fig_jdn_fyt_kpb">
+                    <title>Example of keyword referencing in DITA</title>
+                    <image href="../../images/oxygen-keyrefs.svg" id="image_fct_5b5_kpb"/>
+                    <image>
+                        <alt>Example of using keydef and keyword elements in DITA</alt>
+                    </image>
+                </fig></p>
             <p>When used improperly, keyrefs can lead to translation errors. You can avoid them by
                 following these tips:<ul id="ul_w43_qvt_kpb">
                     <li>Use keyrefs for non-declinable terms, such as product names or UI
