@@ -2,17 +2,20 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_content_reuse" xml:lang="en-US" dir="ltr">
     <title>Content reuse</title>
-    <shortdesc/>
+    <shortdesc>Learn about best practices of reusing content with conrefs and keyrefs to avoid
+        problems with localization.</shortdesc>
     <conbody>
         <p/>
         <section id="section_r4h_l5d_jpb">
-            <title>Conrefs</title>
-            <p/>
-            <note id="note_rz1_5ss_kpb"
-                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
+            <title>Handling conrefs</title>
+            <p>DITA lets you easily reuse content using the <codeph>conref</codeph> attribute.<fig
+                    id="fig_yzb_h4t_kpb">
+                    <title>Example of content referencing in DITA</title>
+                </fig></p>
+            <note id="note_rz1_5ss_kpb" conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
         </section>
         <section id="section_qfv_l5d_jpb">
-            <title>Keys</title>
+            <title>Handling keyrefs</title>
             <p/>
         </section>
     </conbody>
