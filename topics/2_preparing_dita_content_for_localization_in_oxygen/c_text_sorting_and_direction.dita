@@ -14,15 +14,29 @@
                 meaning.</p>
             <p>To specify text that will be used for sorting, add a <codeph>sort-as</codeph> element
                 inside a sorted element:</p>
-            <codeblock id="codeblock_kyp_1xs_kpb"/>
+            <codeblock id="codeblock_kyp_1xs_kpb">&lt;glossentry id="gloss-harry-potter">
+  &lt;glossterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm>
+  &lt;prolog>
+    &lt;sort-as>Harry Potter&lt;/sort-as>
+  &lt;/prolog>
+    &lt;glossdef>&lt;/glossdef>
+&lt;/glossentry></codeblock>
         </section>
         <section id="section_og2_xvs_kpb">
             <title>Sorting index terms using the index-sort-as element</title>
-            <p/>
+            <p>Similarly, you can adjust the storting order of index terms by adding the
+                    <codeph>index-sort-as</codeph> element:</p>
+            <codeblock id="codeblock_uyj_dbt_kpb">&lt;indexterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm>
+  &lt;index-sort-as>Harry Potter&lt;/index-sort-as>
+&lt;/indexterm></codeblock>
         </section>
         <section id="section_tnw_xvs_kpb">
             <title>Changing text direction using the dir element</title>
-            <p/>
+            <p>English and many other languages use left-to-right (LTR) script. But there are many
+                languages like Hebrew or Arabic that use right-to-left (RTL). To optimize
+                localization, it's a best practice to specify text direction using the
+                    <codeph>dir</codeph> attribute:</p>
+            <codeblock id="codeblock_s3f_pft_kpb">&lt;xml:lang="ar-IQ" dir ="rtl"></codeblock>
         </section>
     </conbody>
 </concept>
