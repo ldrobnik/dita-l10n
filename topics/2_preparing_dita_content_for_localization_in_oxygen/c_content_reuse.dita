@@ -17,8 +17,7 @@
                     </image>
                 </fig></p>
             <note id="note_rz1_5ss_kpb"
-                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
-            />
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
             <p>Improper use of content referencing can lead to translation errors (such as wrong
                 gramamtical forms or text not matching the context). To avoid such errors, follow
                 these rules:<ul id="ul_ps1_w5t_kpb">
@@ -30,10 +29,10 @@
         </section>
         <section id="section_qfv_l5d_jpb">
             <title>Handling keyrefs</title>
-            <p>Keyrefs can be used for standard text or content that can change, such as product
+            <p>Keyrefs can be used for standard text or expressions that can change, such as product
                     names.<fig id="fig_jdn_fyt_kpb"/></p>
-            <p>When used improperly, keyrefs can also lead to translation errors. You can avoid them
-                by using these tips:<ul id="ul_w43_qvt_kpb">
+            <p>When used improperly, keyrefs can lead to translation errors. You can avoid them by
+                following these tips:<ul id="ul_w43_qvt_kpb">
                     <li>Use keyrefs for non-declinable terms, such as product names or UI
                         terms.</li>
                     <li>Avoid using keyrefs for common nouns.</li>
