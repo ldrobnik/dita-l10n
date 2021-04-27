@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_text_sorting" xml:lang="en-US">
+    <title>Text sorting and direction</title>
+    <shortdesc>Learn how to adjust text sorting using the <codeph>sort-as</codeph> and
+            <codeph>index-sort-as</codeph> elements and change text direction using the
+            <codeph>dir</codeph> element.</shortdesc>
+    <conbody>
+        <section id="section_kfc_wvs_kpb">
+            <title>Sorting text using the sort-as element</title>
+            <p/>
+        </section>
+        <section id="section_og2_xvs_kpb">
+            <title>Sorting index terms using the index-sort-as-element</title>
+            <p/>
+        </section>
+        <section id="section_tnw_xvs_kpb">
+            <title>Changing text direction using the dir element</title>
+            <p/>
+        </section>
+    </conbody>
+</concept>

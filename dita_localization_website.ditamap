@@ -25,7 +25,7 @@
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_preparing_dita_code_for_localization.dita"/>
         <topicref
-            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting.dita"/>
+            href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting_and_direction.dita"/>
         <topicref
             href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_content_reuse.dita"/>
         <topicref
@@ -134,7 +134,7 @@
         <relrow>
             <relcell>
                 <topicref
-                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting.dita"
+                    href="topics/2_preparing_dita_content_for_localization_in_oxygen/c_text_sorting_and_direction.dita"
                 />
             </relcell>
             <relcell>

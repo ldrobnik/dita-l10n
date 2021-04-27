@@ -8,7 +8,8 @@
         <section id="section_r4h_l5d_jpb">
             <title>Conrefs</title>
             <p/>
-            <note id="note_rz1_5ss_kpb"/>
+            <note id="note_rz1_5ss_kpb"
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
         </section>
         <section id="section_qfv_l5d_jpb">
             <title>Keys</title>
