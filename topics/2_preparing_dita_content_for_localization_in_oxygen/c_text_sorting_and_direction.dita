@@ -8,10 +8,16 @@
     <conbody>
         <section id="section_kfc_wvs_kpb">
             <title>Sorting text using the sort-as element</title>
-            <p/>
+            <p>In languages like English you can easily sort lists by alphabetical order. But text
+                in languages such as Japanese and Chinese cannot be always sorted that way. This is
+                because the same character can have different pronunciations depending on the
+                meaning.</p>
+            <p>To specify text that will be used for sorting, add a <codeph>sort-as</codeph> element
+                inside a sorted element:</p>
+            <codeblock id="codeblock_kyp_1xs_kpb"/>
         </section>
         <section id="section_og2_xvs_kpb">
-            <title>Sorting index terms using the index-sort-as-element</title>
+            <title>Sorting index terms using the index-sort-as element</title>
             <p/>
         </section>
         <section id="section_tnw_xvs_kpb">
