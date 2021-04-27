@@ -31,7 +31,7 @@
         <section id="section_qfv_l5d_jpb">
             <title>Handling keyrefs</title>
             <p>Keyrefs can be used for standard text or content that can change, such as product
-                names.</p>
+                    names.<fig id="fig_jdn_fyt_kpb"/></p>
             <p>When used improperly, keyrefs can also lead to translation errors. You can avoid them
                 by using these tips:<ul id="ul_w43_qvt_kpb">
                     <li>Use keyrefs for non-declinable terms, such as product names or UI
