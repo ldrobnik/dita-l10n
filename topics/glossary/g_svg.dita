@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_svg" xml:lang="en-US" dir="ltr">
+    <glossterm>SVG</glossterm>
+    <glossdef>an XML-based vector graphics format</glossdef>
+    <glossBody>
+        <glossSurfaceForm>SVG (Scalable Vector Graphics)</glossSurfaceForm>
+        <glossAlt id="glossAlt_pkf_qs5_kpb">
+            <glossAcronym>SVG</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>

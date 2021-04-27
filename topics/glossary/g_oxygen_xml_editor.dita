@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_oxygen" xml:lang="en-US" dir="ltr">
+    <glossterm>oXygen XML Editor</glossterm>
+    <glossdef>a popular XML editor offering advanced features for working with DITA
+        projects</glossdef>
+    <glossBody>
+        <glossAlt id="glossAlt_irv_vr5_kpb">
+            <glossShortForm>oXygen</glossShortForm>
+        </glossAlt>
+    </glossBody>
+</glossentry>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_computer_aided_translation" xml:lang="en-US" dir="ltr">
+    <glossterm>computer-assisted translation</glossterm>
+    <glossdef>the use of software tools (such as translation memory tools and terminology managers)
+        to assist a human translator in the translation process</glossdef>
+    <glossBody>
+        <glossSurfaceForm>computer-assisted translation (CAT)</glossSurfaceForm>
+        <glossAlt id="glossAlt_nlf_np5_kpb">
+            <glossAcronym>CAT</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>
