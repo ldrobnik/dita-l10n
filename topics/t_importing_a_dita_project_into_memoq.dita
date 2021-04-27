@@ -2,12 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="t_importing_a_dita_project_into_memoq" xml:lang="en-US" dir="ltr">
     <title>Importing a DITA project into memoQ</title>
-    <shortdesc>Learn how to import your DITA project into memoQ while preserving the project's
-        folder structure.</shortdesc>
+    <shortdesc>Learn how to import your <term keyref="g_dita"/> project into <term keyref="g_memoq"
+        /> while preserving the project's folder structure.</shortdesc>
     <taskbody>
         <context>
-            <p>When translating a DITA project, it is important to preserve the relationships
-                between files. To import your project into memoQ without losing the project's folder
+            <p>When translating a <term keyref="g_dita"/> project, it is important to preserve the relationships
+                between files. To import your project into <term keyref="g_memoq"/> without losing the project's folder
                 strucure, follow these steps:</p>
         </context>
         <steps id="steps_tqk_mnr_jpb">
@@ -67,8 +67,7 @@
                     </menucascade>.</cmd>
                 <info>
                     <fig id="fig_zjf_1sr_jpb">
-                        <image href="../images/memoq-import.png" id="image_jly_n3s_jpb"
-                            width="650">
+                        <image href="../images/memoq-import.png" id="image_jly_n3s_jpb" width="650">
                             <alt>The 'Import' menu in memoQ</alt>
                         </image>
                     </fig>
@@ -102,8 +101,7 @@
         </steps>
         <result id="result_ytl_vrr_jpb">Project files are ready for translation.<fig
                 id="fig_vyz_wsr_jpb">
-                <image href="../images/memoq-import-result.png" id="image_q25_v3s_jpb"
-                    width="800">
+                <image href="../images/memoq-import-result.png" id="image_q25_v3s_jpb" width="800">
                     <alt>DITA project imported into memoQ</alt>
                 </image>
             </fig><note id="note_xcv_3sr_jpb" type="tip">To export a translated project, right-click

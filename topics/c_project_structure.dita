@@ -9,7 +9,7 @@
             <p>A logical folder structure will make localization easier. Do not keep all your files
                 in one folder. Instead, create separate folders for your topics, images, and other
                     content.<note id="note_djz_ypn_kpb" type="tip">To avoid publishing problems,
-                    always store your DITA maps at a level above your topics and images.</note></p>
+                        always store your <term keyref="g_dita"/> maps at a level above your topics and images.</note></p>
         </section>
         <section id="section_tby_z4n_kpb">
             <title>Prefixes vs. folders</title>

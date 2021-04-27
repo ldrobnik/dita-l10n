@@ -7,8 +7,9 @@
         <section id="section_rqh_kkf_kpb">
             <title>Image format</title>
             <p>If your images contain text that needs to be localized, avoid using bitmaps, such as
-                JPG or PNG files. Instead, use SVG files. Most CAT tools can translate text embedded
-                in SVG files.</p>
+                JPG or PNG files. Instead, use <abbreviated-form keyref="g_svg"/> files. Most
+                    <abbreviated-form keyref="g_computer_aided_translation"/> tools can translate
+                text contained in <abbreviated-form keyref="g_svg"/> files.</p>
         </section>
         <section id="section_fct_kkf_kpb">
             <title>Callouts</title>
