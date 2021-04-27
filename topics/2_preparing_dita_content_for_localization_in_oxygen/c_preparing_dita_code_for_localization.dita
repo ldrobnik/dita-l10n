@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_localization_related_attributes">
+<concept id="c_localization_related_attributes" xml:lang="en-US">
     <title>Preparing DITA code for localization</title>
-    <shortdesc/>
+    <shortdesc>Learn how to prepare your DITA code for localization using the
+            <codeph>xml:lang</codeph> and <codeph>translate</codeph> attributes.</shortdesc>
     <conbody>
         <section id="section_gm5_xks_kpb">
             <title>Setting the language of topics and maps</title>
-            <p/>
+            <p>It is a best practice to specify the language of your DITA files, even if you are not
+                planning localization at the moment. To specify the language and country of a topic
+                or map, set the <codeph>xml:lang</codeph> attribute of its root element:</p>
+            <codeblock id="codeblock_gyh_4ns_kpb">&lt;concept id="c_magic_tricks_vs_the_real_thing" xml:lang="en-US"></codeblock>
+            <note id="note_set_attr" type="tip">To set an element attribute in oXygen, press
+                    <uicontrol>Alt + Enter</uicontrol> and type the name of the attribute you want
+                to set.</note>
         </section>
         <section id="section_gt2_zks_kpb">
             <title>Identifying content not to be translated</title>
-            <p/>
+            <p>To identify a fragment that must not be translated, set the
+                    <codeph>translate</codeph> attribute to ""no":</p>
+            <codeblock id="codeblock_id5_mqs_kpb">&lt;codeblock id="codeblock_spells" translate="no">
+    let spellsLeft = 7;
+&lt;/codeblock></codeblock>
         </section>
     </conbody>
 </concept>

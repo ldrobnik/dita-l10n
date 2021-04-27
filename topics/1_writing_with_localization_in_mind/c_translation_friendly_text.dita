@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_translation_friendly_text">
+<concept id="c_translation_friendly_text" xml:lang="en-US">
     <title>Translation-friendly text</title>
     <shortdesc>Learn a few tips to make your text easier to translate and less likely to cause
         translation errors.</shortdesc>

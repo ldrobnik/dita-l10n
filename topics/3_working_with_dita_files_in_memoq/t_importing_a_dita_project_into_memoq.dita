@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="t_importing_a_dita_project_into_memoq">
+<task id="t_importing_a_dita_project_into_memoq" xml:lang="en-US">
     <title>Importing a DITA project into memoQ</title>
     <shortdesc>Learn how to import your DITA project into memoQ while preserving the project's
         folder structure.</shortdesc>

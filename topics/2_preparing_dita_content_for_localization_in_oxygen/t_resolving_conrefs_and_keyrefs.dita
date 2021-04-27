@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="t_resolving_conrefs_and_keyrefs">
+<task id="t_resolving_conrefs_and_keyrefs" xml:lang="en-US">
     <title>Resolving conrefs and keyrefs</title>
     <shortdesc>Learn how to quickly replace content references and key references with
         content.</shortdesc>

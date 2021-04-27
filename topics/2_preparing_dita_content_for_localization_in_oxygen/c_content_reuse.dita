@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_content_reuse">
+<concept id="c_content_reuse" xml:lang="en-US">
     <title>Content reuse</title>
     <shortdesc/>
     <conbody>
@@ -8,6 +8,7 @@
         <section id="section_r4h_l5d_jpb">
             <title>Conrefs</title>
             <p/>
+            <note id="note_rz1_5ss_kpb"/>
         </section>
         <section id="section_qfv_l5d_jpb">
             <title>Keys</title>

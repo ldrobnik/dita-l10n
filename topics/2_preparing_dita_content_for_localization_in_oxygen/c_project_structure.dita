@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_project_structure">
+<concept id="c_project_structure" xml:lang="en-US">
     <title>Project structure</title>
     <shortdesc>Learn how to organize your project to make localization easier.</shortdesc>
     <conbody>
