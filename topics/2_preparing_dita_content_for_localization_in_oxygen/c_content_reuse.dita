@@ -11,8 +11,14 @@
             <p>DITA lets you easily reuse content using the <codeph>conref</codeph> attribute.<fig
                     id="fig_yzb_h4t_kpb">
                     <title>Example of content referencing in DITA</title>
+                    <image href="../../images/oxygen-conrefs.svg" id="image_l3z_jrt_kpb">
+                        <alt>Example of using the conref attribute to reuse content between
+                            topics</alt>
+                    </image>
                 </fig></p>
-            <note id="note_rz1_5ss_kpb" conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
+            <note id="note_rz1_5ss_kpb"
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
+            />
         </section>
         <section id="section_qfv_l5d_jpb">
             <title>Handling keyrefs</title>
