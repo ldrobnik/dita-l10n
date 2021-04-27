@@ -5,7 +5,7 @@
     <glossdef>an <term keyref="g_xml"/>-based vector graphics format</glossdef>
     <glossBody>
         <glossSurfaceForm>SVG (Scalable Vector Graphics)</glossSurfaceForm>
-        <glossAlt id="glossAlt_pkf_qs5_kpb">
+        <glossAlt id="glossAlt_g_svg">
             <glossAcronym>SVG</glossAcronym>
         </glossAlt>
     </glossBody>

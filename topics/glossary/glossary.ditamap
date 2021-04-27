@@ -10,12 +10,12 @@
     <keydef keys="g_svg" href="g_svg.dita"/>
     <keydef keys="g_xml" href="g_xml.dita"/>
     <topicref href="r_glossary.dita" chunk="to-content">
-        <topicref keyref="g_computer_aided_translation"/>
-        <topicref keyref="g_csv"/>
-        <topicref keyref="g_dita"/>
-        <topicref keyref="g_memoq"/>
-        <topicref keyref="g_oxygen_xml_editor"/>
-        <topicref keyref="g_svg"/>
-        <topicref keyref="g_xml"/>
+        <topicref keyref="g_computer_aided_translation" toc="no"/>
+        <topicref keyref="g_csv" toc="no"/>
+        <topicref keyref="g_dita" toc="no"/>
+        <topicref keyref="g_memoq" toc="no"/>
+        <topicref keyref="g_oxygen_xml_editor" toc="no"/>
+        <topicref keyref="g_svg" toc="no"/>
+        <topicref keyref="g_xml" toc="no"/>
     </topicref>
 </map>

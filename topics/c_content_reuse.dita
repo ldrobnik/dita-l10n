@@ -8,7 +8,7 @@
         <p/>
         <section id="section_r4h_l5d_jpb">
             <title>Handling conrefs</title>
-            <p><term keyref="g_dita"/> lets you easily reuse content using the
+            <p>DITA lets you easily reuse content using the
                     <codeph>conref</codeph> attribute.<fig id="fig_yzb_h4t_kpb">
                     <title>Example of content referencing in DITA</title>
                     <image href="../images/oxygen-conrefs.svg" id="image_l3z_jrt_kpb">

@@ -6,5 +6,8 @@
         human-readable and machine-readable</glossdef>
     <glossBody>
         <glossSurfaceForm>XML (eXtensible Markup Language)</glossSurfaceForm>
+        <glossAlt id="glossAlt_onx_m2v_kpb">
+            <glossAcronym>XML</glossAcronym>
+        </glossAlt>
     </glossBody>
 </glossentry>

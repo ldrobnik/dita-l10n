@@ -2,12 +2,12 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_localization_related_attributes" xml:lang="en-US" dir="ltr">
     <title>Preparing DITA code for localization</title>
-    <shortdesc>Learn how to prepare your <term keyref="g_dita"/> code for localization using the
+    <shortdesc>Learn how to prepare your DITA code for localization using the
             <codeph>xml:lang</codeph> and <codeph>translate</codeph> attributes.</shortdesc>
     <conbody>
         <section id="section_gm5_xks_kpb">
             <title>Setting the language of topics and maps</title>
-            <p>It is a best practice to specify the language of your <term keyref="g_dita"/> files, even if you are not
+            <p>It is a best practice to specify the language of your DITA files, even if you are not
                 planning localization at the moment. To specify the language and country of a topic
                 or map, set the <codeph>xml:lang</codeph> attribute of its root element:
                 <codeblock id="codeblock_gyh_4ns_kpb">&lt;concept id="c_magic_tricks_vs_the_real_thing" xml:lang="en-US"></codeblock></p>

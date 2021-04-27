@@ -2,10 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="t_working_with_views" xml:lang="en-US" dir="ltr">
     <title>Translating repetitions</title>
-    <shortdesc>Learn how to simplify your translation process in <term keyref="g_memoq"/> by creating a view containing
+    <shortdesc>Learn how to simplify your translation process in memoQ by creating a view containing
         only repetitions.</shortdesc>
     <taskbody>
-        <context>If your <term keyref="g_dita"/> project contains a lot of repetitive content, it
+        <context>If your DITA project contains a lot of repetitive content, it
             may be useful to include all repetitions in one view. In order to create a view
             containing all repetitions in <term keyref="g_memoq"/>, follow these steps:</context>
         <steps id="steps_tvl_tyr_jpb">
