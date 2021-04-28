@@ -6,26 +6,25 @@
     <conbody>
         <section id="section_cvc_jfm_kpb">
             <title>Types of non-translatable content</title>
-            <p>When you plan the localization of your project, it is important to identify content
-                that should be left untranslated. Here are a few examples of such content: <ul
-                    id="ul_rlp_qfm_kpb">
+            <p>While planning the localization of your project, it is important to identify
+                fragments you don't want to translate. These can include the following: <ul id="ul_rlp_qfm_kpb">
                     <li>proper names, such as brand names</li>
                     <li>contact details</li>
                     <li>code blocks</li>
-                    <li>UI text (if the UI is not localized)</li>
+                    <li>user interface (UI) text (if the UI is not localized)</li>
                     <li>legal text (may need to be handled separately)</li>
-                </ul>
-                <note id="note_s2q_qhm_kpb" type="tip">You can use <xref href="c_glossaries.dita"
-                        >glossaries</xref> to identify content that must be left
-                    untranslated.</note>
-            </p>
+                </ul></p>
+            <note id="note_s2q_qhm_kpb" type="tip">You can use <xref href="c_glossaries.dita"
+                    >glossaries</xref> to let translators know which phrases they shouldn't
+                translate.</note>
+            
         </section>
         <section id="section_w3j_3kk_jpb">
             <title>UI text</title>
-            <p>If your project contains references to UI text, it is important to consider whether
-                the UI is translated and if so, into which languages. If the UI is not localized,
-                you should instruct translators on how they should approach UI text. For example,
-                you may want them to provide a translation in brackets.</p>
+            <p>If your project contains UI terms, it's important to know whether the UI has been
+                translated to target langauges. If the UI is not localized, you should let
+                translators know how they should handle UI text. For example, you may want them to
+                follow each UI term with a translation in brackets.</p>
         </section>
     </conbody>
 </concept>

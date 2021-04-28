@@ -2,13 +2,13 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="t_resolving_conrefs_and_keyrefs" xml:lang="en-US" dir="ltr">
     <title>Resolving conrefs and keyrefs</title>
-    <shortdesc>Learn how to quickly replace content references and key references with content in
-        oXygen XML Editor.</shortdesc>
+    <shortdesc>Learn how to quickly replace content references and keyword references with relevant
+        content in oXygen XML Editor.</shortdesc>
     <taskbody>
         <context>When preparing your project for localization, it may be useful to replace content
-            references (conrefs) and key references (keyrefs) with appropriate content. To resolve
-            all conrefs and keyrefs in a topic in <term keyref="g_oxygen_xml_editor"/>, follow these
-            steps:</context>
+            references (conrefs) and keyword references (keyrefs) with appropriate content. To
+            resolve all conrefs and keyrefs in a topic in <term keyref="g_oxygen_xml_editor"/>,
+            follow these steps:</context>
         <steps id="steps_f5z_kx2_kpb">
             <step>
                 <cmd>Open a topic containing references and switch to the

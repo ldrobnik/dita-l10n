@@ -2,25 +2,22 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_text_sorting" xml:lang="en-US" dir="ltr">
     <title>Text sorting and direction</title>
-    <shortdesc>Learn how to adjust text sorting using the <codeph>sort-as</codeph> and
-            <codeph>index-sort-as</codeph> elements and change text direction using the
-            <codeph>dir</codeph> element.</shortdesc>
+    <shortdesc>Learn how to adjust text sorting and text direction in localized files.</shortdesc>
     <conbody>
         <section id="section_kfc_wvs_kpb">
             <title>Sorting text using the sort-as element</title>
-            <p>In languages like English you can easily sort lists by alphabetical order. But text
-                in languages such as Japanese and Chinese cannot be always sorted that way. This is
-                because the same character can have different pronunciations depending on the
-                meaning.</p>
-            <p>To specify text that will be used for sorting, add a <codeph>sort-as</codeph> element
+            <p>In languages like English you can easily sort lists by alphabetical order. But it's
+                not always that simple in languages such as Japanese and Chinese. That's because the
+                same character can have different pronunciations depending on the meaning.</p>
+            <p>To specify text you want to use for sorting, add a <codeph>sort-as</codeph> element
                 inside a sorted element:
                 <codeblock id="codeblock_kyp_1xs_kpb">&lt;glossentry id="gloss-harry-potter">
   &lt;glossterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;&lt;/glossterm>
   &lt;prolog>
     &lt;sort-as>Harry Potter&lt;/sort-as>
   &lt;/prolog>
-    &lt;glossdef>&lt;/glossdef>
-    &lt;/glossentry></codeblock></p>
+  &lt;glossdef>&lt;/glossdef>
+&lt;/glossentry></codeblock></p>
         </section>
         <section id="section_og2_xvs_kpb">
             <title>Sorting index terms using the index-sort-as element</title>
@@ -28,12 +25,12 @@
                     <codeph>index-sort-as</codeph> element:
                 <codeblock id="codeblock_uyj_dbt_kpb">&lt;indexterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
   &lt;index-sort-as>Harry Potter&lt;/index-sort-as>
-  &lt;/indexterm></codeblock></p>
+&lt;/indexterm></codeblock></p>
         </section>
         <section id="section_tnw_xvs_kpb">
             <title>Changing text direction using the dir element</title>
             <p>English and many other languages use left-to-right (LTR) script. But there are many
-                languages like Hebrew or Arabic that use right-to-left (RTL). To optimize
+                languages like Hebrew or Arabic that use right-to-left (RTL) script. To optimize
                 localization, it's a best practice to specify text direction using the
                     <codeph>dir</codeph> attribute:
                 <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir ="rtl"></codeblock></p>
