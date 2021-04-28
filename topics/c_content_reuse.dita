@@ -7,16 +7,14 @@
     <conbody>
         <section id="section_r4h_l5d_jpb">
             <title>Handling conrefs</title>
-            <p>You can easily reuse content in DITA with the <codeph>conref</codeph> attribute.<fig
-                    id="fig_yzb_h4t_kpb">
+            <p>You can easily reuse content in DITA with the <codeph>conref</codeph> attribute.<fig id="fig_yzb_h4t_kpb">
                     <title>Example of content referencing in DITA</title>
                     <image href="../images/oxygen-conrefs.svg" id="image_l3z_jrt_kpb">
                         <alt>Example of using the conref attribute to reuse content between
                             topics</alt>
                     </image>
                 </fig></p>
-            <note id="note_rz1_5ss_kpb"
-                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
+            <note id="note_rz1_5ss_kpb" conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
             <p>Improper use of content referencing can lead to translation errors (such as wrong
                 gramamtical forms or text not matching the context). To avoid such errors, follow
                 these rules:<ul id="ul_ps1_w5t_kpb">
@@ -29,13 +27,11 @@
         <section id="section_qfv_l5d_jpb">
             <title>Handling keyrefs</title>
             <p>You can reference keywords using the <codeph>keyref</codeph> attribute. Keyrefs can
-                be used for standard text or expressions that can change, such as product names.<fig
-                    id="fig_jdn_fyt_kpb">
+                be used for standard text or expressions that can change, such as product names.<fig id="fig_jdn_fyt_kpb">
                     <title>Example of keyword referencing in DITA</title>
-                    <image href="../images/oxygen-keyrefs.svg" id="image_fct_5b5_kpb"/>
-                    <image>
+                    <image href="../images/oxygen-keyrefs.svg" id="image_fct_5b5_kpb">
                         <alt>Example of using keydef and keyword elements in DITA</alt>
-                    </image>
+                        </image>
                 </fig></p>
             <p>When used improperly, keyrefs can lead to translation errors. You can avoid such
                 errors by following these tips:<ul id="ul_w43_qvt_kpb">
