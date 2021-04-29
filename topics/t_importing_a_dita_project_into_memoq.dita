@@ -8,7 +8,7 @@
         <context>
             <p>When translating a DITA project, it is important to preserve the relationships
                 between files. To import your project into <term keyref="g_memoq"/> without losing
-                the project's folder strucure, follow these steps:</p>
+                the project's folder structure, follow these steps:</p>
         </context>
         <steps id="steps_tqk_mnr_jpb">
             <step>
@@ -75,7 +75,7 @@
             </step>
             <step>
                 <cmd>Click <uicontrol>…</uicontrol> next to the <uicontrol>Base path</uicontrol>
-                    field, choose the folder where you keep your project, and click
+                    field, choose the folder where you keep your project and click
                         <uicontrol>OK</uicontrol>.</cmd>
                 <info>
                     <fig id="fig_hjq_1sr_jpb">

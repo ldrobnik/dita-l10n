@@ -6,8 +6,8 @@
         only repetitions.</shortdesc>
     <taskbody>
         <context>If your DITA project contains a lot of repetitive content, it may be useful to
-            include all repetitions in one view. In order to create a view containing all
-            repetitions in <term keyref="g_memoq"/>, follow these steps:</context>
+            include all repetitions in one view. To create a view containing all repetitions in
+                <term keyref="g_memoq"/>, follow these steps:</context>
         <steps id="steps_tvl_tyr_jpb">
             <step>
                 <cmd>Go to <menucascade>

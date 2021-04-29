@@ -6,7 +6,7 @@
     <conbody>
         <section id="section_ly1_shl_kpb">
             <title>Consistency</title>
-            <p>Glossaries are the easiest way to improve the consistency of translated text.
+            <p>Glossaries are the easiest way to improve the consistency of the translated text.
                 Different translators (or even the same translator at different times) can translate
                 the same term in various ways. Giving them a glossary of approved translations will
                 make their translations more consistent.</p>
@@ -22,7 +22,7 @@
         </section>
         <section id="section_agl_yhl_kpb">
             <title>Forbidden terms</title>
-            <p>If you don't want a given term to be tarnslated in a particular way, a glossary is
+            <p>If you don't want a given term to be translated in a particular way, a glossary is
                 also a good place to specify that.</p>
             <p>For example, the word "pacemaker" can be translated into Polish as "rozrusznik," but
                 you may want translators to use the less colloquial "stymulator" instead.</p>
