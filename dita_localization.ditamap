@@ -29,7 +29,7 @@
         <topicref href="topics/t_importing_a_dita_project_into_memoq.dita"/>
         <topicref href="topics/t_translating_repetitions.dita"/>
     </topichead>
-    <topicref href="topics/glossary/glossary.ditamap" format="ditamap" toc="no"/>
+    <topicref href="topics/glossary/glossary.ditamap" format="ditamap"/>
     <reltable>
         <relrow>
             <relcell>
