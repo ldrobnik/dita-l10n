@@ -50,8 +50,8 @@
         </section>
         <section id="section_jrt_bpn_kpb">
             <title>Files not to be translated</title>
-            <p>Some files, such as images and other content, will be shared among language versions
-                and don't need to be translated. It's a good idea to keep files you don't want to
+            <p>Some files, such as images and other content, are shared among language versions and
+                don't need to be translated. It's a good idea to keep files you don't want to
                 translate in a separate folder.</p>
             <fig id="fig_dlr_dtn_kpb">
                 <title>Example structure of a multilingual project with a separate folder for files
