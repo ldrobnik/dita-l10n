@@ -17,7 +17,7 @@
         </section>
         <section id="section_gt2_zks_kpb">
             <title>Identifying content you don't want to translate</title>
-            <p>To identify a fragment you don't want to translate, set the
+            <p>To identify a an element you don't want to translate, set its
                     <codeph>translate</codeph> attribute to "no":
                 <codeblock id="codeblock_id5_mqs_kpb">&lt;codeblock id="codeblock_spells" translate="no">
   let spellsLeft = 7;

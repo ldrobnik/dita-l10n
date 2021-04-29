@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_content_reuse" xml:lang="en-US" dir="ltr">
     <title>Content reuse</title>
-    <shortdesc>Learn about best practices for reusing content that will help you avoid problems with
+    <shortdesc>Learn best practices for reusing content to avoid problems with
         localization.</shortdesc>
     <conbody>
         <section id="section_r4h_l5d_jpb">
@@ -15,7 +15,8 @@
                             topics</alt>
                     </image>
                 </fig></p>
-            <note id="note_rz1_5ss_kpb" conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
+            <note id="note_rz1_5ss_kpb"
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
             <p>Improper use of content referencing can lead to translation errors (such as wrong
                 gramamtical forms or text not matching the context). To avoid such errors, follow
                 these rules:<ul id="ul_ps1_w5t_kpb">

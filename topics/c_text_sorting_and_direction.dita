@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_text_sorting" xml:lang="en-US" dir="ltr">
     <title>Text sorting and direction</title>
-    <shortdesc>Learn how to adjust text sorting and text direction in localized files.</shortdesc>
+    <shortdesc>Learn about attributes and elements used to adjust text sorting and direction in
+        localized files.</shortdesc>
     <conbody>
         <section id="section_kfc_wvs_kpb">
             <title>Sorting text using the sort-as element</title>
@@ -35,8 +36,7 @@
                     <codeph>dir</codeph> attribute:
                 <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir="rtl"></codeblock></p>
             <note id="note_sjc_xft_kpb"
-                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
-            />
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
         </section>
     </conbody>
 </concept>

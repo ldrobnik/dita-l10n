@@ -88,7 +88,7 @@
             </step>
             <step>
                 <cmd>In the <uicontrol>Document import options</uicontrol> dialog, remove any files
-                    you don't want to translate.</cmd>
+                    you don't want to translate and click <uicontrol>OK</uicontrol>.</cmd>
                 <info>
                     <fig id="fig_wzg_csr_jpb">
                         <image href="../images/memoq-import-options.png" id="image_bsc_s3s_jpb"
