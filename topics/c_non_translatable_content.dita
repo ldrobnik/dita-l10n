@@ -8,11 +8,12 @@
             <title>Types of non-translatable content</title>
             <p>While planning the localization of your project, it is important to identify
                 fragments you don't want to translate. These can include the following: <ul id="ul_rlp_qfm_kpb">
-                    <li>proper names, such as brand names</li>
-                    <li>contact details</li>
-                    <li>code blocks</li>
-                    <li>user interface (UI) text (if the UI has not been localized)</li>
-                    <li>legal text (you may need to handle it separately)</li>
+                    <li>Proper names, such as brand names.</li>
+                    <li>Contact details (though you may need to translate for example country
+                        names).</li>
+                    <li>User interface (UI) text (if the UI has not been localized).</li>
+                    <li>Code blocks (but you may want to translate comments in the code).</li>
+                    <li>Legal text (you may need to handle it separately).</li>
                 </ul></p>
             <note id="note_s2q_qhm_kpb" type="tip">You can use <xref href="c_glossaries.dita"
                     >glossaries</xref> to let translators know which phrases they shouldn't

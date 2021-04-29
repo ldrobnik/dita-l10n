@@ -7,7 +7,7 @@
     <conbody>
         <section id="section_kfc_wvs_kpb">
             <title>Sorting text using the sort-as element</title>
-            <p>In languages like English you can easily sort lists by alphabetical order. But it's
+            <p>In languages like English, you can easily sort lists by alphabetical order. But it's
                 not that simple in languages such as Japanese and Chinese. This is because the same
                 character can have different pronunciations depending on the meaning.</p>
             <p>To specify text you want to use for sorting, add a <codeph>sort-as</codeph> element
