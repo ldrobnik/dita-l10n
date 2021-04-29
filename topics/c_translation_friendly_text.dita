@@ -52,8 +52,8 @@
                 place of commas). <abbreviated-form keyref="g_cat"/> tools may misinterpret such
                 characters and split sentences into separate units. This can lead to translation
                 errors and inconsistencies.</p>
-            <p>Avoid using pagebreaks and empty lines to layout your document. The same content can
-                have a different volume in different languages.</p>
+            <p>Avoid using pagebreaks and empty lines to set the layout of your document. The same
+                content can have a different volume in different languages.</p>
             <note id="note_kv1_gbq_jpb" type="important">When localizing a DITA project, always send
                 the translators your source files rather than the output (such as PDF or HTML
                 files).</note>

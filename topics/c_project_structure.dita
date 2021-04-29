@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_project_structure" xml:lang="en-US" dir="ltr">
     <title>Project structure</title>
-    <shortdesc>Learn how the structure your project can make localization easier.</shortdesc>
+    <shortdesc>Learn how to structure your project to make localization easier.</shortdesc>
     <conbody>
         <section id="section_lhh_cpn_kpb">
             <title>Folder structure</title>
@@ -27,7 +27,8 @@
             <fig id="fig_czj_dtn_kpb">
                 <title>Example structure of a project with separate folders for different types of
                     content</title>
-                <image href="../images/oxygen-basic-structure.svg" id="image_vnf_3zn_kpb">
+                <image href="../images/oxygen-basic-structure.svg" id="image_vnf_3zn_kpb"
+                    width="650">
                     <alt>A flow chart depicting basic project structure with separe folders for
                         images and different types of topics</alt>
                 </image>
@@ -40,7 +41,8 @@
             <fig id="fig_ptv_j5n_kpb">
                 <title>Example structure of a multilingual project with separate folders for
                     different language versions</title>
-                <image href="../images/oxygen-language-folders.svg" id="image_vpr_jzn_kpb">
+                <image href="../images/oxygen-language-folders.svg" id="image_vpr_jzn_kpb"
+                    width="650">
                     <alt>A flow chart depicting project structure divided into separe folders for
                         different language versions</alt>
                 </image>
@@ -48,13 +50,13 @@
         </section>
         <section id="section_jrt_bpn_kpb">
             <title>Files not to be translated</title>
-            <p>Some files, such as images and other content, will be shared among language versions.
-                They don't need to be translated. It's a good idea to keep files you don't want to
+            <p>Some files, such as images and other content, will be shared among language versions
+                and don't need to be translated. It's a good idea to keep files you don't want to
                 translate in a separate folder.</p>
             <fig id="fig_dlr_dtn_kpb">
                 <title>Example structure of a multilingual project with a separate folder for files
                     you don't want to translate</title>
-                <image href="../images/oxygen-common-folder.svg" id="image_k2n_kzn_kpb">
+                <image href="../images/oxygen-common-folder.svg" id="image_k2n_kzn_kpb" width="800">
                     <alt>A flow chart depicting project structure divided into separe folders for
                         different language versions and a common folder for untranslated files</alt>
                 </image>
