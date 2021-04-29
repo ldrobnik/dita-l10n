@@ -6,8 +6,8 @@
     <conbody>
         <section id="section_rqh_kkf_kpb">
             <title>Image format</title>
-            <p>If your images contain text that you won't to translate, avoid using bitmaps, such as
-                JPG or PNG files. Instead, use <term keyref="g_svg"/> files. Most <term
+            <p>If your images contain text that you want to translate, avoid using bitmaps, such as
+                JPG or PNG files. Use <term keyref="g_svg"/> files instead. Most <term
                     keyref="g_cat"/> tools can translate text contained in SVG files.</p>
         </section>
         <section id="section_fct_kkf_kpb">
@@ -24,8 +24,8 @@
         <section id="section_lbr_lkf_kpb">
             <title>UI screens</title>
             <p>If your documentation contains user interface (UI) screens, it is important to
-                consider whether the UI is localized. You may need to plan additional steps to
-                prepare UI screens in target languages.</p>
+                consider whether the UI has been localized. You may need to plan the additional step
+                of capturing UI screens in each target language.</p>
         </section>
     </conbody>
 </concept>

@@ -35,8 +35,8 @@
         </section>
         <section id="section_qfv_1pn_kpb">
             <title>Language versions</title>
-            <p>To make the localization process easier, create a separate subfolder for each
-                language version. Each subfolder should have the same structure.</p>
+            <p>To simplify localization, create a separate subfolder for each language version. Each
+                subfolder should have the same structure.</p>
             <fig id="fig_ptv_j5n_kpb">
                 <title>Example structure of a multilingual project with separate folders for
                     different language versions</title>
@@ -47,7 +47,7 @@
             </fig>
         </section>
         <section id="section_jrt_bpn_kpb">
-            <title>Untranslated files</title>
+            <title>Files not to be translated</title>
             <p>Some files, such as images and other content, will be shared among language versions.
                 They don't need to be translated. It's a good idea to keep files you don't want to
                 translate in a separate folder.</p>

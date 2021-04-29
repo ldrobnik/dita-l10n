@@ -7,8 +7,8 @@
         <section id="section_kfc_wvs_kpb">
             <title>Sorting text using the sort-as element</title>
             <p>In languages like English you can easily sort lists by alphabetical order. But it's
-                not always that simple in languages such as Japanese and Chinese. That's because the
-                same character can have different pronunciations depending on the meaning.</p>
+                not that simple in languages such as Japanese and Chinese. This is because the same
+                character can have different pronunciations depending on the meaning.</p>
             <p>To specify text you want to use for sorting, add a <codeph>sort-as</codeph> element
                 inside a sorted element:
                 <codeblock id="codeblock_kyp_1xs_kpb">&lt;glossentry id="gloss-harry-potter">
@@ -21,7 +21,7 @@
         </section>
         <section id="section_og2_xvs_kpb">
             <title>Sorting index terms using the index-sort-as element</title>
-            <p>Similarly, you can adjust the storting order of index terms by adding the
+            <p>You can adjust the storting order of index terms by adding the
                     <codeph>index-sort-as</codeph> element:
                 <codeblock id="codeblock_uyj_dbt_kpb">&lt;indexterm>&amp;#x30CF;&amp;#x30EA;&amp;#x30FC;&amp;#x30FB;&amp;#x30DD;&amp;#x30C3;&amp;#x30BF;&amp;#x30FC;
   &lt;index-sort-as>Harry Potter&lt;/index-sort-as>
@@ -33,7 +33,7 @@
                 languages like Hebrew or Arabic that use right-to-left (RTL) script. To optimize
                 localization, it's a best practice to specify text direction using the
                     <codeph>dir</codeph> attribute:
-                <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir ="rtl"></codeblock></p>
+                <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir="rtl"></codeblock></p>
             <note id="note_sjc_xft_kpb"
                 conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
             />

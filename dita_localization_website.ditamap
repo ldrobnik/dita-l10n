@@ -55,7 +55,6 @@
         <relrow>
             <relcell>
                 <topicref href="topics/c_non_translatable_content.dita"/>
-                <topicref href="topics/c_project_structure.dita"/>
             </relcell>
             <relcell>
                 <topicref href="topics/c_preparing_dita_code_for_localization.dita"/>

@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_non_translatable_text" xml:lang="en-US" dir="ltr">
     <title>Non-translatable content</title>
-    <shortdesc>Learn about types of content that you may wish to leave untranslated.</shortdesc>
+    <shortdesc>Learn about types of content that you may not want to translate.</shortdesc>
     <conbody>
         <section id="section_cvc_jfm_kpb">
             <title>Types of non-translatable content</title>
@@ -11,8 +11,8 @@
                     <li>proper names, such as brand names</li>
                     <li>contact details</li>
                     <li>code blocks</li>
-                    <li>user interface (UI) text (if the UI is not localized)</li>
-                    <li>legal text (may need to be handled separately)</li>
+                    <li>user interface (UI) text (if the UI has not been localized)</li>
+                    <li>legal text (you may need to handle it separately)</li>
                 </ul></p>
             <note id="note_s2q_qhm_kpb" type="tip">You can use <xref href="c_glossaries.dita"
                     >glossaries</xref> to let translators know which phrases they shouldn't
@@ -22,9 +22,9 @@
         <section id="section_w3j_3kk_jpb">
             <title>UI text</title>
             <p>If your project contains UI terms, it's important to know whether the UI has been
-                translated to target langauges. If the UI is not localized, you should let
+                translated, and into which languages. If the UI is not localized, you should let
                 translators know how they should handle UI text. For example, you may want them to
-                follow each UI term with a translation in brackets.</p>
+                follow each UI term with its translation in brackets.</p>
         </section>
     </conbody>
 </concept>

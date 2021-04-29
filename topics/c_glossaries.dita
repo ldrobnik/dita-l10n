@@ -12,8 +12,8 @@
                 make their translations more consistent.</p>
             <note id="note_owy_djl_kpb">Most <term keyref="g_cat"/> tools enable automatic
                 terminology checks to make sure that a translator has used terms from the glossary.
-                Such checks, however, are less reliable in languages in which the same word can have
-                various grammatical forms .</note>
+                Such checks, however, are less reliable in languages where one word can have various
+                grammatical forms.</note>
         </section>
         <section id="section_b1n_whl_kpb">
             <title>Non-translatable text</title>
@@ -24,7 +24,7 @@
             <title>Forbidden terms</title>
             <p>If you don't want a given term to be tarnslated in a particular way, a glossary is
                 also a good place to specify that.</p>
-            <p>For example, the word "pacemaker" can be translated into Polish as "rozrusznik", but
+            <p>For example, the word "pacemaker" can be translated into Polish as "rozrusznik," but
                 you may want translators to use the less colloquial "stymulator" instead.</p>
         </section>
         <section id="section_yld_d3l_kpb">
@@ -37,7 +37,7 @@
                 tools have their own term base format, but you can use a universal format called
                 TermBase eXchange (TBX) to exchange term bases between different tools.</p>
             <p>You can also prepare a glossary as a <term keyref="g_csv"/> file in a spreadsheet
-                editor and then import it into a CAT tool.</p>
+                editor and import it into a CAT tool.</p>
             <fig id="fig_cjc_mml_kpb">
                 <title>A simple bilingual glossary developed in a spreadsheet editor</title>
                 <image href="../images/writing-glossary.png" id="image_urr_4pl_kpb">
