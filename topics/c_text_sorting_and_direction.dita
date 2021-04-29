@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_text_sorting" xml:lang="en-US" dir="ltr">
     <title>Text sorting and direction</title>
-    <shortdesc>Learn about attributes and elements used to adjust text sorting and direction in
-        localized files.</shortdesc>
+    <shortdesc>Learn about attributes and elements used to adjust text sorting and
+        direction.</shortdesc>
     <conbody>
         <section id="section_kfc_wvs_kpb">
             <title>Sorting text using the sort-as element</title>
