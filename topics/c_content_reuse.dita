@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_content_reuse" xml:lang="en-US" dir="ltr">
     <title>Content reuse</title>
-    <shortdesc>Learn best practices for reusing content to avoid problems with
+    <shortdesc>Learn best practices for content and keyword referencing to avoid problems with
         localization.</shortdesc>
     <conbody>
         <section id="section_r4h_l5d_jpb">
