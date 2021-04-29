@@ -3,5 +3,5 @@
 <glossentry id="g_xml" xml:lang="en-US" dir="ltr">
     <glossterm>XML</glossterm>
     <glossdef>eXtensible Markup Language; a markup language designed to store and transport data in
-        a format that is both human-readable and machine-readable.</glossdef>
+        a format that is readable by both humans and machines.</glossdef>
 </glossentry>
