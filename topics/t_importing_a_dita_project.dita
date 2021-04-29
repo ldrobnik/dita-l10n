@@ -6,7 +6,7 @@
         folder structure.</shortdesc>
     <taskbody>
         <context>
-            <p>When translating a DITA project, it is important to preserve the relationships
+            <p>When translating a DITA project, it's important to preserve the relationships
                 between files. To import your project into <term keyref="g_memoq"/> without losing
                 the project's folder structure, follow these steps:</p>
         </context>
@@ -49,12 +49,12 @@
                 <cmd>Skip the <uicontrol>Translation documents</uicontrol> step.</cmd>
             </step>
             <step>
-                <cmd>In the <uicontrol>Translation memories</uicontrol> step, choose or create a
-                    translation memory.</cmd>
+                <cmd>In the <uicontrol>Translation memories</uicontrol> step, choose or create
+                    translation memories.</cmd>
             </step>
             <step>
-                <cmd>In the <uicontrol>Term bases</uicontrol> step, choose or create a term
-                    base.</cmd>
+                <cmd>In the <uicontrol>Term bases</uicontrol> step, choose or create term
+                    bases.</cmd>
             </step>
             <step>
                 <cmd>Click <uicontrol>Finish</uicontrol>.</cmd>

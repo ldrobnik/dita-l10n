@@ -6,14 +6,14 @@
     <conbody>
         <section id="section_ly1_shl_kpb">
             <title>Consistency</title>
-            <p>Glossaries are the easiest way to improve the consistency of the translated text.
+            <p>Glossaries are the easiest way to improve the consistency of translated text.
                 Different translators (or even the same translator at different times) can translate
                 the same term in various ways. Giving them a glossary of approved translations will
                 make their translations more consistent.</p>
             <note id="note_owy_djl_kpb">Most <term keyref="g_cat"/> tools enable automatic
                 terminology checks to make sure that a translator has used terms from the glossary.
                 But remember that such checks are less reliable in languages where one word can have
-                various grammatical forms.</note>
+                many grammatical forms.</note>
         </section>
         <section id="section_b1n_whl_kpb">
             <title>Non-translatable text</title>

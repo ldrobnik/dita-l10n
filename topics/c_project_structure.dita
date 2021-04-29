@@ -6,7 +6,7 @@
     <conbody>
         <section id="section_lhh_cpn_kpb">
             <title>Folder structure</title>
-            <p>A logical folder structure will make localization much easier. Do not keep all files
+            <p>A logical folder structure will make localization much easier. Don't keep all files
                 in one folder. Instead, create separate folders for your topics, images, and other
                     content.<note id="note_djz_ypn_kpb" type="tip">To avoid publishing problems,
                     always store your DITA maps at the same level or above your topics and
