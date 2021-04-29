@@ -26,7 +26,7 @@
         <topicref href="topics/t_resolving_conrefs_and_keyrefs.dita"/>
     </topichead>
     <topichead navtitle="Translating content in memoQ">
-        <topicref href="topics/t_importing_a_dita_project_into_memoq.dita"/>
+        <topicref href="topics/t_importing_a_dita_project.dita"/>
         <topicref href="topics/t_translating_repetitions.dita"/>
     </topichead>
     <topichead navtitle="Download the manual">
@@ -111,7 +111,7 @@
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="topics/t_importing_a_dita_project_into_memoq.dita"/>
+                <topicref href="topics/t_importing_a_dita_project.dita"/>
             </relcell>
             <relcell>
                 <topicref href="topics/c_project_structure.dita"/>
@@ -123,7 +123,7 @@
                 <topicref href="topics/t_translating_repetitions.dita"/>
             </relcell>
             <relcell>
-                <topicref href="topics/t_importing_a_dita_project_into_memoq.dita"/>
+                <topicref href="topics/t_importing_a_dita_project.dita"/>
             </relcell>
         </relrow>
     </reltable>
