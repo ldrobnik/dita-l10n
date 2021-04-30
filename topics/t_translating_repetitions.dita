@@ -39,8 +39,8 @@
                 </info>
             </step>
         </steps>
-        <result id="result_uny_kzr_jpb">Now you can work on a view containing all repeting
-            segments in your project.<fig id="fig_jfc_b3s_jpb">
+        <result id="result_uny_kzr_jpb">Now you can work on a view containing all repeating segments
+            in your project.<fig id="fig_jfc_b3s_jpb">
                 <image href="../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="800">
                     <alt>An example memoQ view containing repetitions</alt>
                 </image>
