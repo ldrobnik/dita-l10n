@@ -16,8 +16,8 @@
                     Enter</uicontrol> and type the name of the attribute you want to set.</note>
         </section>
         <section id="section_gt2_zks_kpb">
-            <title>Identifying content you don't want to translate</title>
-            <p>To identify an element you don't want to translate, set its
+            <title>Identifying content that you don't want to translate</title>
+            <p>To identify an element that you don't want to translate, set its
                     <codeph>translate</codeph> attribute to "no":
                 <codeblock id="codeblock_id5_mqs_kpb">&lt;codeblock id="codeblock_spells" translate="no">
   let spellsLeft = 7;

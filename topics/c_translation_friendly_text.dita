@@ -47,7 +47,7 @@
                 </ul></p>
         </section>
         <section id="section_lnc_1kp_jpb">
-            <title>Formating</title>
+            <title>Formatting</title>
             <p>Search your text for unintended line breaks and punctuation marks (such as periods in
                 place of commas). <abbreviated-form keyref="g_cat"/> tools may misinterpret such
                 characters and split sentences into separate units. This can lead to translation
