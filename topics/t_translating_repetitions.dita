@@ -44,6 +44,8 @@
                 <image href="../images/memoq-repetitions.png" id="image_p3j_b3s_jpb" width="800">
                     <alt>An example memoQ view containing repetitions</alt>
                 </image>
-            </fig></result>
+            </fig><note id="note_rd4_mtb_npb" type="note">You don't always need to translate all
+                repetitions the same way. Sometimes, the same text has different translations
+                depending on the context.</note></result>
     </taskbody>
 </task>
