@@ -5,10 +5,21 @@
     <shortdesc>Learn to quickly replace content references and keyword references with relevant
         content in oXygen XML Editor.</shortdesc>
     <taskbody>
-        <context>When preparing your project for localization, it may be useful to replace content
-            references (conrefs) and keyword references (keyrefs) with appropriate content. To
-            resolve all conrefs and keyrefs in a topic in <term keyref="g_oxygen_xml_editor"/>,
-            follow these steps:</context>
+        <context>
+            <p>When preparing your project for localization, you can consider replacing content
+                references (conrefs) and keyword references (keyrefs) with appropriate content.</p>
+            <p>Replacing conrefs and keyrefs with plain text may be useful, for example, when you
+                have a legacy content containing a lot of references and need to localize it without
+                extensive rewriting.</p>
+            <note id="note_ahw_pwb_npb" type="important">Once you resolve conrefs and keyrefs, they
+                no longer exist in the localized text. You need to decide what brings more benefits.
+                If the text uses conrefs and keyrefs solely for non-translatable terms (such as
+                trademarks), it may be more useful to keep them. On the other hand, if such
+                references are used for single words or phrases, you may want to resolve them to
+                improve translation quality.</note>
+            <p>To resolve all conrefs and keyrefs in a topic in <term keyref="g_oxygen_xml_editor"
+                />, follow these steps:</p>
+        </context>
         <steps id="steps_f5z_kx2_kpb">
             <step>
                 <cmd>Open a topic containing references and switch to the
