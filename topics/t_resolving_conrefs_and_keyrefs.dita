@@ -14,9 +14,9 @@
             <note id="note_ahw_pwb_npb" type="important">Once you resolve conrefs and keyrefs, they
                 no longer exist in the localized text. You need to decide what brings more benefits.
                 If your project uses conrefs and keyrefs solely for non-translatable terms (such as
-                trademarks), it may be more useful to keep them. On the other hand, if such
-                references are used for single words or phrases, you may want to replace them with
-                plain text to improve translation quality.</note>
+                trademarks), it may be useful to keep them. On the other hand, if such references
+                are used for single words or phrases, you may want to replace them with plain text
+                to improve translation quality.</note>
             <p>To resolve all conrefs and keyrefs in a topic in <term keyref="g_oxygen_xml_editor"
                 />, follow these steps:</p>
         </context>
