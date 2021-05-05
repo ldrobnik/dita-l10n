@@ -28,22 +28,25 @@
                 you may want translators to use the less colloquial "stymulator" instead.</p>
         </section>
         <section id="section_yld_d3l_kpb">
-            <title>Context</title>
-            <p>Glossaries can also provide context for each term, such as its definition.</p>
+            <title>Definition and context</title>
+            <p>Glossaries can also provide a definition for each term, as well as context, such as
+                subject domain or sample use.</p>
         </section>
         <section id="section_nry_sjl_kpb">
             <title>Format</title>
-            <p>Glossaries (called term bases) can be developed directly in a CAT tool. Most CAT
-                tools have their own term base format, but you can use a universal format called
-                TermBase eXchange (TBX) to move term bases between different tools.</p>
-            <p>You can also prepare a glossary as a <term keyref="g_csv"/> file in a spreadsheet
-                editor and import it into a CAT tool.</p>
+            <p>You can develop a glossary in a spreadsheet editor. Simply prepare a list of terms
+                with their translations and optionally other details, such as definitions.</p>
+            <p>Once you finish, export your glossary as a <term keyref="g_csv"/> file. Translators
+                can then import the file into their CAT tool.</p>
             <fig id="fig_cjc_mml_kpb">
                 <title>A simple bilingual glossary developed in a spreadsheet editor</title>
                 <image href="../images/writing-glossary.png" id="image_urr_4pl_kpb">
                     <alt>A simple bilingual glossary developed in a spreadsheet editor</alt>
                 </image>
             </fig>
+            <p>Glossaries (called term bases) can albo be developed directly in a CAT tool. Most CAT
+                tools have their own term base format, but you can use a universal format called
+                TermBase eXchange (TBX) to move term bases between different tools.</p>
         </section>
     </conbody>
 </concept>

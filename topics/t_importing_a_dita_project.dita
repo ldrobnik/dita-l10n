@@ -6,9 +6,9 @@
         folder structure.</shortdesc>
     <taskbody>
         <context>
-            <p>When translating a DITA project, it's important to preserve the relationships
-                between files. To import your project into <term keyref="g_memoq"/> without losing
-                the project's folder structure, follow these steps:</p>
+            <p>When translating a DITA project, it's important to preserve the relationships between
+                files. To import your project into <term keyref="g_memoq"/> without losing the
+                project's folder structure, follow these steps:</p>
         </context>
         <steps id="steps_tqk_mnr_jpb">
             <step>

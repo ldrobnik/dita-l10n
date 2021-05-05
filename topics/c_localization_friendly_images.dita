@@ -23,9 +23,10 @@
         </section>
         <section id="section_lbr_lkf_kpb">
             <title>UI screens</title>
-            <p>If your documentation contains UI screens, it's important to
-                consider whether the UI has been localized. You may need to plan the additional step
-                of capturing UI screens in each target language.</p>
+            <p>If your documentation contains UI screens, it's important to consider whether the
+                    <xref href="c_non_translatable_content.dita#c_non_translatable_text/ui_text">UI
+                    text</xref> has been localized. You may need to plan the additional step of
+                capturing UI screens in each target language.</p>
         </section>
     </conbody>
 </concept>

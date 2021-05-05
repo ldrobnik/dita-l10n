@@ -20,7 +20,7 @@
                     >glossaries</xref> to let translators know which phrases they shouldn't
                 translate.</note>
         </section>
-        <section id="section_w3j_3kk_jpb">
+        <section id="ui_text">
             <title>UI text</title>
             <p>If your project contains UI terms, it's important to know whether the UI has been
                 translated, and into which languages. </p>

@@ -20,8 +20,8 @@
             <p>Improper use of content referencing can lead to translation errors (such as wrong
                 grammatical forms or text not matching the context). To avoid such errors, follow
                 these rules:<ul id="ul_ps1_w5t_kpb">
-                    <li>Don't use conrefs for incomplete phrases. Instead, use them to reference
-                        whole sentences or larger fragments.</li>
+                    <li>Don't use conrefs for single words or parts of sentences. Instead, use them
+                        to reference whole sentences or larger fragments.</li>
                     <li>Avoid excessive content reuse. This can make it harder for translators to
                         know the context of the translated text.</li>
                 </ul></p>
@@ -38,7 +38,7 @@
                 </fig></p>
             <p>When used improperly, keyrefs can lead to translation errors. You can minimize such
                 errors by following these tips:<ul id="ul_w43_qvt_kpb">
-                    <li>Use keyrefs for terms that do not change their grammatical form, such as
+                    <li>Use keyrefs for terms that should not be modified in translation, such as
                         product names or UI terms.</li>
                     <li>Avoid using keyrefs for common nouns.</li>
                     <li>Treat keyrefs as proper nouns and don't precede them with an article.</li>

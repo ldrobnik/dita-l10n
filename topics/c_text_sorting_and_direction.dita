@@ -36,7 +36,10 @@
                     <codeph>dir</codeph> attribute:
                 <codeblock id="codeblock_s3f_pft_kpb">&lt;map xml:lang="ar-IQ" dir="rtl"></codeblock></p>
             <note id="note_sjc_xft_kpb"
-                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"/>
+                conref="c_preparing_dita_code_for_localization.dita#c_localization_related_attributes/note_set_attr"
+            />
+            <note id="note_cmg_lqb_npb" type="note">You should apply a new language code and text
+                direction <i>after</i> translation.</note>
         </section>
     </conbody>
 </concept>
