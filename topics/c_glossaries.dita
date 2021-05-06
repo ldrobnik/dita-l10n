@@ -44,7 +44,7 @@
                     <alt>A simple bilingual glossary developed in a spreadsheet editor</alt>
                 </image>
             </fig>
-            <p>Glossaries (called term bases) can albo be developed directly in a CAT tool. Most CAT
+            <p>Glossaries (called term bases) can also be developed directly in a CAT tool. Most CAT
                 tools have their own term base format, but you can use a universal format called
                 TermBase eXchange (TBX) to move term bases between different tools.</p>
         </section>
