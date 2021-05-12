@@ -14,6 +14,8 @@
             <note id="note_set_attr" type="tip">To set an attribute of an element in <term
                     keyref="g_oxygen_xml_editor"/>, select the element, press <uicontrol>Alt +
                     Enter</uicontrol> and type the name of the attribute you want to set.</note>
+            <note id="note_cmg_lqb_npb" type="note">You should apply a new language code
+                    <i>after</i> translation.</note>
         </section>
         <section id="section_gt2_zks_kpb">
             <title>Identifying content that you don't want to translate</title>
