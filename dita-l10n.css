@@ -1,0 +1,16 @@
+.table {
+    width: 80%;
+}
+
+.table thead th {
+    text-align: center;
+    vertical-align: bottom;
+    padding: .75rem;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.table td {
+    text-align: center;
+    vertical-align: top;
+    padding: .75rem;
+}
