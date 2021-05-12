@@ -178,7 +178,7 @@
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>C:\repozytoria\dita-l10n\dita-l10n.css</String>
+                                                <String>${cfd}\styles\dita-l10n.css</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
