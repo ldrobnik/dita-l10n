@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="t_resolving_conrefs_and_keyrefs" xml:lang="en-US" dir="ltr">
     <title>Resolving conrefs and keyrefs</title>
-    <shortdesc>Learn to quickly replace content references and keyword references with relevant
+    <shortdesc>Learn how to quickly replace content references and keyword references with relevant
         content in oXygen XML Editor.</shortdesc>
     <taskbody>
         <context>
