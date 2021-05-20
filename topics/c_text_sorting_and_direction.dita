@@ -29,7 +29,7 @@
 &lt;/indexterm></codeblock></p>
         </section>
         <section id="section_tnw_xvs_kpb">
-            <title>Changing text direction using the dir element</title>
+            <title>Changing text direction using the dir attribute</title>
             <p>English and many other languages use left-to-right (LTR) script. But there are many
                 languages like Hebrew or Arabic that use right-to-left (RTL) script. To optimize
                 localization, it's a best practice to specify text direction using the
