@@ -1,35 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="en-US" dir="ltr">
-    <title>How to prepare DITA content for localization</title>
-    <topicmeta>
-        <author>Łukasz Drobnik</author>
-        <copyright>
-            <copyryear year="2021"/>
-            <copyrholder>Łukasz Drobnik</copyrholder>
-        </copyright>
-        <critdates>
-            <created date="2021-04-21"/>
-        </critdates>
-    </topicmeta>
-    <topichead navtitle="Writing with localization in mind">
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>How to prepare DITA content for localization</mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <authorinformation id="drobnik">
+            <personinfo>
+                <namedetails>
+                    <personname>
+                        <firstname>Łukasz</firstname>
+                        <lastname>Drobnik</lastname>
+                    </personname>
+                </namedetails>
+            </personinfo>
+        </authorinformation>
+    </bookmeta>
+    <frontmatter>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter navtitle="Writing with localization in mind">
         <topicref href="topics/c_translation_friendly_text.dita"/>
         <topicref href="topics/c_non_translatable_content.dita"/>
         <topicref href="topics/c_glossaries.dita"/>
         <topicref href="topics/c_localization_friendly_images.dita"/>
-    </topichead>
-    <topichead navtitle="Preparing content in oXygen">
+    </chapter>
+    <chapter navtitle="Preparing content in oXygen">
         <topicref href="topics/c_project_structure.dita"/>
         <topicref href="topics/c_preparing_dita_code_for_localization.dita"/>
         <topicref href="topics/c_text_sorting_and_direction.dita"/>
         <topicref href="topics/c_content_reuse.dita"/>
         <topicref href="topics/t_resolving_conrefs_and_keyrefs.dita"/>
-    </topichead>
-    <topichead navtitle="Translating content in memoQ">
+    </chapter>
+    <chapter navtitle="Translating content in memoQ">
         <topicref href="topics/t_importing_a_dita_project.dita"/>
         <topicref href="topics/t_translating_repetitions.dita"/>
-    </topichead>
-    <topicref href="topics/glossary/glossary.ditamap" format="ditamap"/>
+    </chapter>
+    <appendix href="topics/glossary/glossary.ditamap" format="ditamap"/>
     <reltable>
         <relrow>
             <relcell>
@@ -123,4 +132,4 @@
             </relcell>
         </relrow>
     </reltable>
-</map>
+</bookmap>
