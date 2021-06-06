@@ -4,4 +4,4 @@ A DITA-based documentation project developed as part of the [Technical Communica
 
 The project is meant as a guide for technical writers. It contains basic information on how to prepare DITA-based documentation for localization. 
 
-The guide is available both as [online help](https://ldrobnik.github.io/prepare-dita-for-l10n) and as a [PDF manual](https://ldrobnik.github.io/prepare-dita-for-l10n/documents/dita_localization.pdf).
+The guide is available both as [online help](https://prepare-dita-for-l10n.netlify.app/) and as a [PDF manual](https://prepare-dita-for-l10n.netlify.app/documents/dita_localization.pdf).
