@@ -7,7 +7,7 @@
         <section id="section_cvc_jfm_kpb">
             <title>Types of non-translatable content</title>
             <p>While planning the localization of your project, it's important to identify fragments
-                you don't want to translate. These can include the following: <ul
+                that you don't want to translate. These can include the following: <ul
                     id="ul_rlp_qfm_kpb">
                     <li>Proper names, such as brand names.</li>
                     <li>Contact details (though you may need to translate some details, for example
