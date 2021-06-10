@@ -1,4 +1,4 @@
-# How to prepare DITA content for localization
+# Prepare DITA content for localization
 
 A DITA-based documentation project developed as part of the [Technical Communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw.
 
